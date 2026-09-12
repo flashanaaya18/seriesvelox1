@@ -1,5 +1,39 @@
 [
   {
+    "id": 77169,
+    "titulo": "Cobra Kai",
+    "sinopsis": "Enemigos acérrimos. Dojos rivales. Sangre nueva. Daniel y Johnny reviven viejas rivalidades en esta secuela de las películas de «Karate Kid».",
+    "poster": "https://image.tmdb.org/t/p/w500/imfqLcv6oHNn6bDdEUUUlxy0Ch9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "anio": "2018",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "As degenerado",
+            "sinopsis": "Alcohólico y harto de vivir a la sombra de Daniel, su antiguo rival, Johnny toca fondo y decide reabrir el dojo de karate Cobra Kai.",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/D04OOwWjJ9ik7po"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/hkp2wmcm2uk8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hgcloud.to/e/rj1hyz64lx7x"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 333096,
     "titulo": "Hotel Todo Incluido",
     "sinopsis": "Sebastián busca una oportunidad. Consigue ser gerente del legendario Hotel Amalaya del Río para salvarlo. Recibe el poder de cumplir los deseos de sus huéspedes.",
