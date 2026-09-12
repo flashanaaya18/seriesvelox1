@@ -66,6 +66,25 @@
                 "url": "https://streamhg.com/e/6v9479qv3fs3"
               }
             ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Crazy Little Thing Called Love",
+            "sinopsis": "Una superestrella del pop, que se hospeda en el hotel, muestra interés por Julia, lo que preocupa a Máximo. Nora va a su primera cita en mucho tiempo.",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/3w3lrbb30VIdKXK"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/omwv1ro0ie99"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://streamhg.com/e/1uaysgwtyq0s"
+              }
+            ]
           }
         ]
       }
