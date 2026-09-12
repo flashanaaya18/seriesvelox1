@@ -1,5 +1,39 @@
 [
   {
+    "id": 333096,
+    "titulo": "Hotel Todo Incluido",
+    "sinopsis": "Sebastián busca una oportunidad. Consigue ser gerente del legendario Hotel Amalaya del Río para salvarlo. Recibe el poder de cumplir los deseos de sus huéspedes.",
+    "poster": "https://image.tmdb.org/t/p/w500/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4QoTm66DR8vRyDWTXs2IBWNy3WH.jpg",
+    "anio": "2026",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/LaAyeqx9VRtRRlg"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/w76tohb0jhrd"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://streamhg.com/e/kgkuzigcxzje"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 133727,
     "titulo": "Acapulco",
     "sinopsis": "En 1984, Máximo Gallardo cumple su gran sueño cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco, pero pronto descubre que su anhelado trabajo será mucho más difícil de lo que pensaba. Versión doblada a español disponible.",
