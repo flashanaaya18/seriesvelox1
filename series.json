@@ -1,0 +1,36 @@
+[
+  {
+    "id": 133727,
+    "titulo": "Acapulco",
+    "sinopsis": "En 1984, Máximo Gallardo cumple su gran sueño cuando empieza a trabajar en Las Colinas, el mejor resort de Acapulco, pero pronto descubre que su anhelado trabajo será mucho más difícil de lo que pensaba. Versión doblada a español disponible.",
+    "poster": "https://image.tmdb.org/t/p/w500/462Nyyeyl3E2aiyU1pCCHqxAgH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1zWgb5owPiYWmoJ5SEpv6XJb8CQ.jpg",
+    "anio": "2021",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piloto",
+            "sinopsis": "Cuando es contratado en el hotel más popular de Acapulco, Máximo piensa que ha conseguido el trabajo de sus sueños, pero rápidamente aprende que hay más de lo que imaginó.",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/0daYbXaoBwsKrr"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/2mtok6g5q4qg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://streamhg.com/e/wlrm1o1erndl"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
