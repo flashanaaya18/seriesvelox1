@@ -47,6 +47,25 @@
                 "url": "https://morencius.com/e/wpu43gype8qu"
               }
             ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/0DQDQYV13lfb8jb"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/yv9y58b3tdg4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hgcloud.to/e/620nysj7yvft"
+              }
+            ]
           }
         ]
       }
