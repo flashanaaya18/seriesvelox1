@@ -28,6 +28,25 @@
                 "url": "https://streamhg.com/e/kgkuzigcxzje"
               }
             ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/XgvVWkvAWYHzDx"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/co8robix5xbt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://morencius.com/e/wpu43gype8qu"
+              }
+            ]
           }
         ]
       }
