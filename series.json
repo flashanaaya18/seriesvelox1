@@ -66,6 +66,21 @@
                 "url": "https://hgcloud.to/e/620nysj7yvft"
               }
             ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/wGrg83A6yyCJvKl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hgcloud.to/e/3bvq8eqyk807"
+              }
+            ]
           }
         ]
       }
