@@ -85,6 +85,25 @@
                 "url": "https://streamhg.com/e/1uaysgwtyq0s"
               }
             ]
+          },
+          {
+            "numero": 5,
+            "titulo": "All Night Long",
+            "sinopsis": "Maximo y Chad se embarcan en una aventura nocturna fuera del hotel, mientras que el personal debe trabajar en equipo para una recepción de boda interminable.",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/0rDvvZBOvJcb9pQ"
+              },
+              {
+                "nombre": "EarnVids",
+                "url": "https://earnvids.com/embed/b0bioot4jmc8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://streamhg.com/e/3qnsyg02ccyv"
+              }
+            ]
           }
         ]
       }
