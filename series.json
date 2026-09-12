@@ -179,6 +179,25 @@
                 "url": "https://streamtape.com/e/mkqAXZwYPkCQ8w"
               }
             ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/aoyl1KQq7dcx62z"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/i1z32pmm3087"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hgcloud.to/e/ledmj7gzbaes"
+              }
+            ]
           }
         ]
       }
