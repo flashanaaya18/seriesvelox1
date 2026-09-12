@@ -1,5 +1,39 @@
 [
   {
+    "id": 79242,
+    "titulo": "El mundo oculto de Sabrina",
+    "sinopsis": "La magia y las travesuras marcan el rumbo de Sabrina, una adolescente de doble naturaleza que se debate entre el mundo de los mortales y el que se oculta debajo.",
+    "poster": "https://image.tmdb.org/t/p/w500/frwsOLHKzfCaenY9QtYXpsOBZzX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3UZ43UxVAFmtbQGFdZQ8KxiwJO5.jpg",
+    "anio": "2018",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: El país de octubre",
+            "sinopsis": "Mientras Greendale se prepara para un eclipse de Halloween, Sabrina debe tomar una decisión muy difícil, y Harvey hace una declaración inesperada.",
+            "servidores": [
+              {
+                "nombre": "Streamtape",
+                "url": "https://streamtape.com/e/xyyGDzmxZ7UwL3"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hdfrgm3y75on"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hgcloud.to/e/rxnfnvx6waox"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 77169,
     "titulo": "Cobra Kai",
     "sinopsis": "Enemigos acérrimos. Dojos rivales. Sangre nueva. Daniel y Johnny reviven viejas rivalidades en esta secuela de las películas de «Karate Kid».",
