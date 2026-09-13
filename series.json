@@ -1,5 +1,3433 @@
 [
   {
+    "id": 1402,
+    "titulo": "The Walking Dead",
+    "sinopsis": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+    "poster": "https://image.tmdb.org/t/p/w500/kuPOrTbvqJisGskhYIZyUOHrS3J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+    "anio": "2010",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Los viejos tiempos",
+            "sinopsis": "El alguacil Rick Grimes, despierta después de estar en coma por un tiempo. Mientras camina por el pueblo en busca de su familia, descubre que su hogar esta lleno de salvajes no muertos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zkviotl74vyh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6ibbn2ntjwqt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ackovwb2loim"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Agallas",
+            "sinopsis": "Ya en Atlanta, Rick es rescatado por un grupo de sobrevivientes, quienes se encuentran atrapados en una tienda departamental rodeados por caminantes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/proiox243was"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zg8hlq43n8pz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/is6gzegbsiy2"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Díselo a las ranas",
+            "sinopsis": "Rick finalmente se reencuentra con su familia. Su felicidad se ve brevemente interrumpida cuando él y una parte de los sobrevivientes, deciden regresar a la azotea y rescatar a Merle del grupo de caminantes. Mientras tanto, la tensión crece entre el resto de sobrevivientes en el campamento",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/14wywcfyo94j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0p6kjn997vmi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/o3uzvmdozfir"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Muchachos",
+            "sinopsis": "El grupo de rescate tiene problemas cuando se topan con un grupo de sobrevivientes desconocidos, y que aparentemente son peligrosos, mientras tratan de encontrar a Merle. De vuelta en el campamento, Jim comienza a actuar extraño.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1gmn83wttzrh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0nyk0guggv9w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7teie3hh109y"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Código Wildfire",
+            "sinopsis": "Después del ataque al campamento, Rick y el resto de los sobrevivientes deciden realizar un viaje para tratar de salvar a un infectado Jim.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/chdav8m8b8w9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xqqdxw824tif"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dcxwyzxu6wfn"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "TS-19",
+            "sinopsis": "Los sobrevivientes consiguen entrar al CDC tratando de encontrar un poco de esperanza. Rápidamente se dan cuenta que el problema es más delicado de lo que esperaban.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d5v0jqt97edz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9ppbav44ezby"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qghh2xk9irk8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Lo que nos espera",
+            "sinopsis": "El plan del grupo para dirigirse a un lugar seguro se pone en pausa cuando un miembro desaparece.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/15m7ckq9rydf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qb2kpfq4nje2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/b2ldg4fqsgg8"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Sangría",
+            "sinopsis": "Después de que Carl sufre un accidente, el grupo es llevado a una granja cercana que es habitada por una pequeña familia. Shane realiza un arriesgado viaje en busca de equipo médico para ayudar a Carl",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zqxkeq5mhcuf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/h8vng6dcc8sy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tvspu5b5yd9d"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Guarda la última",
+            "sinopsis": "Mientras la salud de Carl se sigue deteriorando, Shane y Otis deben de tomar medidas drásticas para evitar a los caminantes y poder volver a la granja.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3h2ni5sz7lpp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ap3vbvsuhll6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/d8kwiztiknn7"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "La rosa cheroqui",
+            "sinopsis": "Con Carl recuperándose, el grupo enfoca todas sus energías en traer de vuelta a Sophia. Glenn y Maggie van en un viaje en busca de suministros.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f0ufqn9mzc6o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1zsdlcehzmyf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xkqal4wx3v8u"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "El chupacabras",
+            "sinopsis": "Tratando de encontrar una pista sobre el paradero de Sophia, Daryl se adentra en el bosque pero sufre un accidente y es atacado por un grupo de caminantes. Glenn tiene dudas sobre su situación con Maggie.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ne9dsb3jzovw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a4hqfs0sl2x3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mizu6h1lghiu"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Secretos",
+            "sinopsis": "Dale confronta a Hershel luego de que Glenn le cuenta sobre los caminantes encerrados en el granero. Lori tiene problemas adaptándose a su embarazo, mientras que Shean le enseña cómo usar una arma a Andrea.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/97ecwz3jpvwp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/es9dql5in4b9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jy7cuescdtn5"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Prácticamente muertos",
+            "sinopsis": "Glenn le cuenta al resto del grupo sobre los caminantes en el granero, lo que provoca una discusión que divide al grupo. Hershel pone una fecha para que el grupo de sobrevivientes se vaya de la granja, a menos que Rick haga una difícil tarea",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5n525pbbj1jg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s0ne6tvekzae"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/a5eromeuojvg"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Nebraska",
+            "sinopsis": "Después del accidente en el granero, el resto del grupo entierra a un ser querido. Beth sufre de un colapso emocional. Rick y Glenn van en busca de Hershel cuando éste desaparece.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/b2tttq2iteqb"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ysf2d71z31t4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/r91vy472t6m2"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Dedo en gatillo",
+            "sinopsis": "Rick, Glenn y Hershel tratan de encontrar una forma de escapar después de que se cruzan con otro grupo de sobrevivientes. Shane tiene que encontrar a Lori.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/uf7v34m55a6c"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/07k2z08ptpqz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ibomklu4qxnj"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "A 30 kilómetros",
+            "sinopsis": "Rick y Shane discuten sobre qué hacer con su prisionero. De regreso en la granja, Lori, Andrea y Maggie tratan de ayudar a Beth con sus problemas emocionales.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/iwlpb0rccszu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/i377r72usqvo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/v2t25m8lhbtm"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Juez, jurado y verdugo",
+            "sinopsis": "Dale tiene miedo de que el resto del grupo esté perdiendo su lado humano cuando todos toman la decisión de eliminar a Randall.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/u729tl0tmdhe"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/txvc6ysc69xn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qc0poag7xf3g"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Los mejores ángeles",
+            "sinopsis": "El malévolo comportamiento de Shane alcanza nuevos niveles. Carl sufre las consecuencias de sus temerarios actos",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dv1hra3t7vr5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1n8552e99x32"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/romhieqb0tjn"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Junto al fuego que se extingue",
+            "sinopsis": "Mientras la granja se consume por el fuego, el grupo trata de escapar. Rick y Shane le ponen fin a su amistad",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ja3ua2rhhxzo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/byn9crsvym6f"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dhrjyolww1rd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Semilla",
+            "sinopsis": "Después de varios meses tratando de huir, el grupo por fin encuentra refugio en las instalaciones de una prisión. En otro lugar, la salud de Andrea se comienza a deteriorar",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1s4zeo6u9ioo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/373rf2pi0crx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iumjc8fjufzh"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Enfermo",
+            "sinopsis": "Mientras la condición de Hershel sigue empeorando, el resto del grupo lidia con unos prisioneros hostiles",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/yfb73wfl22sf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jbialxaaiavc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eh9z7z3w9fbw"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Camina conmigo",
+            "sinopsis": "Tratando de ayudar en un accidente de helicóptero, Andrea y Michonne son llevadas a un pueblo aparentemente seguro, liderado por un hombre conocido como el Gobernador.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/21tlz9e1ghqh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2j7a498lxkq2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8mmfwdh78dje"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Asesino Interior",
+            "sinopsis": "Lori comienza con la labor de parto mientras la prisión se encuentra bajo ataque. Michonne intenta convencer a Andrea de dejar Woodbury.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pi4m7nccz22b"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dmaijahrgwzx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fjwwdy2hmpoo"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Da la orden",
+            "sinopsis": "Rick sufre de un colapso después de su perdida. Andrea y Michonne separan sus caminos. Daryl y Maggie intentan salir al exterior para encontrar comida y ropa para el bebé.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r1te80uo5kc9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rxfhx0adw7bh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gnpr6aglpbae"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Perseguido",
+            "sinopsis": "Rick recibe una misteriosa llamada telefónica en la prisión. Merle trata de cazar a Michonne. Andrea y el Gobernador refuerzan su relación.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x6uo2y8qkq6c"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hyb2zn40ntpx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/00dl30grp8gd"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Cuando los muertos vienen tocando",
+            "sinopsis": "Con la ayuda de Michonne, Rick, Daryl y Oscar tratan de llegar a Woodbury para salvar a Glenn y a Maggie. Merle trata de conseguir información de Glenn a la fuerza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tlkh34w6hp4w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7mc5ortt7vnq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1qzzyusrrtkr"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Creados para sufrir",
+            "sinopsis": "Rick, Daryl, Oscar y Michonne se infiltran en Woodbury con la esperanza de encontrar a sus amigos. Mientras tanto, un nuevo grupo de sobrevivientes llega a la prisión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qb7prp3sh6yi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r711molfnqt6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ldhj2f6il0zy"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "El rey suicida",
+            "sinopsis": "Woodbury termina debilitado tras el ataque de Rick y compañía. La presencia de Merle causa tensión en el grupo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ydz6qfd6u0h6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/aexd74y74xjn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mdh7rmbajvwk"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Hogar",
+            "sinopsis": "Rick continúa teniendo visiones de Lori. Daryl y Merle tratan de valerse por sí mismos luego de separarse del grupo. El Gobernador planea un ataque a la prisión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/whkny1sydh5y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/y7wdm0r7g3uu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e9achum8ssbv"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "No soy Judas",
+            "sinopsis": "Mientras Rick y el grupo planean su siguiente movimiento, Andrea trata de negociar con ellos. El gobernador prepara a Woodbury para la inevitable batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xui1gdt0t09w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kaw1s3r1zo6n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6undpm9oouti"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Limpio",
+            "sinopsis": "Cuando Rick, Carl y Michonne, regresan al antiguo pueblo de Rick en busca de armas que les puedan ayudar en su lucha contra el Gobernador, se encuentran con una cara conocida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9wxrgbw1vh1j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/aa1d49onr7ru"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/k1whybvuukgy"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "La flecha en el marco de la puerta",
+            "sinopsis": "Rick y el Gobernador tiene una reunión con el fin de encontrar una solución pacifica y evitar que más sangre se derrame. De vuelta en la prisión, la tensión aumenta entre el resto del grupo y Merle.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n68pwlb8aitm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ywsn5h33b0kv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0sum9yl60vie"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Presa",
+            "sinopsis": "El Gobernador intenta eliminar a Andrea después de que ella escapa de Woodbury. Mientras tanto, los dos grupos que habitan la prisión entran en una disputa",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7vq9wuoxlrjb"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ln8b3cfxth2s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qjjjz36igvpo"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Esta triste vida",
+            "sinopsis": "Mientras Rick decide el destino de Michonne, Merle sale de la prisión para ocuparse de los problemas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/18wpt05pdzyd"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2wk1l1pcpf6a"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/azvuchfbl9an"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Bienvenidos a las tumbas",
+            "sinopsis": "Rick y el grupo se preparan para el inminente ataque del Gobernador. Andrea trata de escapar de su encierro",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5cp5e00k2998"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1v82qq9i55bu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pnx0s3asn9uj"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Viajeros",
+            "sinopsis": "Han pasado varios meses desde la pelea con el Gobernador, ahora Rick y un grupo mayor de habitantes viven pacíficamente en las instalaciones de la prisión. Los problemas comienzan cuando Rick se encuentra con un nuevo inquilino.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dmkcjvmur84e"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5at3o31w83v7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ro78un8xpeib"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Infectados",
+            "sinopsis": "Rick es forzado a abandonar su tranquilo estilo de vida cuando un misterioso brote de un virus pone la vida de los habitantes de la prisión en riesgo",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/epmxnrz9j8et"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2nm2asqvjj0l"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zimbg6rug3ql"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Aislamiento",
+            "sinopsis": "Mientras los infectados son puestos en cuarentena, Daryl y un grupo de sobrevivientes dejan la prisión en busca de suministros médicos. Rick realiza un impactante descubrimiento.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ng775t66lzha"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gf60bzhwfuoj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ppvu8elzftr4"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Indiferencia",
+            "sinopsis": "Daryl y su grupo continuan con la búsqueda de medicamentos en una escuela para veterinarios. Rick y Carol visitan un pueblo cercano, donde encuentran a dos no infectados.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dl8cf4qaawre"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/htmrcqod1zfg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/50ssq1jo9jyx"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Reclusión",
+            "sinopsis": "Mientras Hershel trata de cuidar a los enfermos, una situación se presenta en el bloque de celdas. Rick y Carl tratan de proteger la prisión después de que la reja se destruye.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ghc2h50ej7ne"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ma1s2bkb3pa6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iijgagpb9gxe"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Cebo vivo",
+            "sinopsis": "El Gobernador convive con una familia pequeña después de su fracaso en Woodbury.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nn5wsr0dyf3o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/87e51e4e11iw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lea8ohaxx6wg"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Peso muerto",
+            "sinopsis": "El Gobernador planea su siguiente movimiento, mientras él, Lilly, Tara y Meghan se adaptan a su nuevo ambiente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nvavmyih327j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/egwql9xp12cn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/crzas3obr18i"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "En las últimas",
+            "sinopsis": "Rick y el resto del grupo tienen actuar rápidamente luego de que el Gobernador trata de apoderarse de la prisión",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4dyhgnbmuty5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kjhy0528ypk4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jgkgys7hfmny"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Después",
+            "sinopsis": "Después del ataque a la prisión, Rick y Carl deben de valerse por sí mismos mientras intentan encontrar un nuevo refugio. Michonne tiene recuerdos de su pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/h708oytdbixw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7pn554cg6p85"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pyanqowc9joe"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Reclusos",
+            "sinopsis": "Beth trata de no perder las esperanzas. Glenn y Maggie intentan adaptarse a no estar juntos. Tyreese, Lizzie y Mika se encuentran con una cara conocida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vs6msi1dh3fp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/u9mpr90wgc65"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iwhptvkplkrc"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Reclamado",
+            "sinopsis": "Mientras Carl y Michonne se encuentran buscando suministros, Rick debe de lidiar con una banda de merodeadores. Glenn y Tara deben completar una misión importante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/c3se0fueadfl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/p2cnobmw310n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rgr3hzt6eaim"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Aún",
+            "sinopsis": "Daryl y Beth buscan refugio en el bosque, mientras conflictos surgen entre los dos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/z4e0010k7g56"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e5ttaxr5kirl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ocyyf9vdg2eb"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Solo",
+            "sinopsis": "Maggie, Sasha y Bob discuten sobre si deben de ir a Terminus. Daryl y Beth encuentran refugio en una funeraria aparentemente abandonada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/b7sh1oe993jb"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8g4fs1kvuqao"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kbwec2i6dabn"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "La arboleda",
+            "sinopsis": "Tyreese y su grupo se encuentran con un posible refugio mientras van de camino a Terminus. Ahora deberán discutir si este nuevo lugar es seguro o no.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bzpeuqc4rb21"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/aal26rok7otd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jwbd81rrdmyu"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Nosotros",
+            "sinopsis": "Glenn y Tara se ponen en marcha hacia Terminus, aunque Abraham no está tan seguro. Daryl debe de ajustarse a las reglas del nuevo grupo",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6x6xsct6yptt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4pukjhjmdwfl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tzjccu78d9cx"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "A",
+            "sinopsis": "Rick se enfrenta cara a cara con la brutalidad más absoluta, a medida que múltiples caminos se entrechocan. Él y su grupo, ¿tendrán lo que hace falta para sobrevivir?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7yrayc6zmpic"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/krv6cz6iqwy9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/16xzgtw11kr5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "No existe santuario",
+            "sinopsis": "Carol debe de tomar algunas decisiones arriesgadas para poder salvar a Rick y a sus amigos de los caníbales de Terminus. Una cara familiar regresa",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wd2ml2pf95p6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k4c156hy9kdz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/btmkgfhdyr8x"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Extraños",
+            "sinopsis": "Rick y el grupo cruzan su camino con un misterioso padre y su refugio en una iglesia. Mientras tanto, Daryl y Carol siguen una pista sobre el paradero de Beth",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bu9fcyblcl63"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/cw2pq3104luy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zttge2imkdc0"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Cuatro paredes y un techo",
+            "sinopsis": "Con la vida de Bob en peligro, el grupo debe de preparar un ataque contra Gareth y su grupo de caníbales.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8jnjqe9vbn7h"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m58a1rthidza"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ej1vwhefjced"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "La ciudad de las mesas de autopsias",
+            "sinopsis": "Después de ser separada de Daryl, Beth despierta en un desconocido hospital en Atlanta. Esta nueva administración es manejada por antiguos policías.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/b8tb1lygwm3q"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/66oe7y47imaq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xjbduaeb56y9"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Autoayuda",
+            "sinopsis": "Mientras Glenn y una parte del grupo se dirigen a Washington, una nueva revelación amenaza con poner el viaje en pausa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/b0mqavxl75dr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/60zigr2ywvvl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6p6pssxn5nju"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Consumidos",
+            "sinopsis": "Daryl y Carol siguen el carro marcado hasta una desolada Atlanta con la intensión de encontrar a Beth y a sus captores",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6emfl46h2dpi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/w91jy4r5hm56"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/91zyfiil3nae"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Cruzados",
+            "sinopsis": "Mientras Carl y Gabriel defienden la iglesia, Rick cumple una misión de rescate en Atlanta. El grupo de Abraham tiene que lidiar con una revelación hecha por Eugene.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6vtvqdg1a46k"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vuod5di2uihh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6b4l5jwdm9j4"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Coda",
+            "sinopsis": "Rick y el resto del grupo se ponen cara a cara con Dawn, y el resto de los policías, con la intensión de rescatar a Beth sin derramar más sangre.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/58a5esqszcjc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fv5i4fhhdbq3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vtfztnxwcobu"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Lo que pasó y lo que está ocurriendo",
+            "sinopsis": "Rick, Glenn, Michonne y Tyreese llevan a Noah a su hogar en Shirewilt con la intensión de encontrar un nuevo refugio, pero lo que encuentran es algo completamente diferente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zzbp304jzaw9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/461clw43ewak"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e8fh9udlwn1m"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Ellos",
+            "sinopsis": "Llorando la muerte de dos miembros y con pocos suministros, el grupo continua con su viaje a Washington.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3l87i3snv9ij"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vii5fwdboygr"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fqh7z5sp61xt"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "La distancia",
+            "sinopsis": "Mientras se recuperan de una poderosa tormenta, Rick y el grupo se topan con un nuevo sobreviviente que les ofrece una nueva vida dentro de una nueva comunidad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fxhd4v8lslw1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dxi6puxn3n8l"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6wsmtsr3ywyd"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Recuerda",
+            "sinopsis": "Aterrados por sus experiencias pasadas, Rick y el resto del grupo tienen problemas adaptándose a la normalidad de Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/e51kjflnd1ep"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/81a26oj4bpja"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cq7tro1xe1kh"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Olvida",
+            "sinopsis": "Mientras Deanna organiza una fiesta para los recién llegados, Carol tiene un plan para recuperar sus armas. Daryl fortalece su nueva amistad con Aaron.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/eevt4ji6djpz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/nu9fer10uf5i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hahn2aa8sttq"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Desgaste",
+            "sinopsis": "Eugene es forzado a participar en equipo cuando un plan organizado por Glenn sale mal. Carol realiza un descubrimiento sobre Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kax88tm06hco"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mz08bzll4gmp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hycctpiiktbb"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Inténtalo",
+            "sinopsis": "Mientras se encuentra buscando nuevos reclutas, Daryl y Aaron se topan con problemáticas señales de actividad humana. Carl y Enid se unen. La tensión entre Rick y Pete aumenta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kkmmj3u726fm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xzs5xmk3wsbo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4e17fhlrge1n"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Vence",
+            "sinopsis": "Daryl y Aaron se topan con Morgan. La gente de Alexandria decide el futuro de Rick, mientras un nuevo peligro sale a la luz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ooe6q0ipyict"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rr179h96wnci"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mhfnt6xll180"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Primera vez de nuevo",
+            "sinopsis": "Rick y el grupo planean la forma de movilizar a un grupo de caminantes lejos de Alexandria. Se conocen nuevos detalles de la muerte de Pete.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kq31gq16m95f"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9ppf7d8yo382"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ndte9cgdlja1"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "JSS",
+            "sinopsis": "Mientras Rick y el grupo se encuentran ahuyentado a los caminantes, Carol y Morgan tienen que organizar su defensa contra los Lobos cuando atacan Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4in6c0xmsdhv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ob0aid47cdho"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zegxp8usljde"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Gracias",
+            "sinopsis": "Cuando la mitad de grupo de caminantes de sale de control, Glenn y Michonne deciden regresar a Alexandria. Rick se topa con los miembros restantes los Lobos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7wiweizx3qud"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/txa9encoj5x1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7nxkvhytohpz"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Aquí no es aquí",
+            "sinopsis": "Morgan le cuenta a su prisionero sobre el trayecto que tuvo que realizar de King County a Alexandria y cómo conoció a un sobreviviente con un código.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bcg00orr9i3z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/y1e41qjcq44z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fnob9i7wvucs"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Ahora más que nunca, nos preocupamos por ti",
+            "sinopsis": "Deanna comienza a cuestionar sus habilidades como líder. Maggie comparte un secreto con Aaron mientras buscan a Glenn.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2mnmaci0d8dw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9i7aggmsn068"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nehf3v4eb5jm"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Siempre responsable",
+            "sinopsis": "Después de que es herido y separado de Abraham y Sasha, Daryl es atrapado por tres sobrevivientes que se encuentran escapando,",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ogwjyp8j35aq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/azuda6kdzdrc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qffoszhdoqbw"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Cuidado",
+            "sinopsis": "Glenn y Enid buscan la forma de regresar a su hogar. Spencer pone su vida en riesgo, después de que los caminantes encuentran la manera de entrar a Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1xaj01gud96c"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hw6821gcbi5w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fdh2jv666djo"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "De principio a fin",
+            "sinopsis": "Alexandria se encuentra asediada por caminantes. Daryl y una parte del grupo se ponen cara a cara con un nuevo peligro.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2cdkagxkqoe9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yn6ouepnu2wt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nlsujzugiud1"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Sin salida",
+            "sinopsis": "Daryl, Abraham y Sasha se enfrentan a los Salvadores. Rick y el grupo lidian con los caminantes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7ohu337w65x9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o8tk05qc3p8n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gs1pi4samc28"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "El próximo mundo",
+            "sinopsis": "Semanas después del ataque de los caminantes, Rick y Daryl se topan con Jesus. Michonne ayuda a Spencer a encontrar un cierre. Carl se recupera de su herida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6hplaquon9lc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wdu6vmxz3u8d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8j7dpgs4tzuz"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Nudos desatados",
+            "sinopsis": "Jesus lleva a Rick a una nueva colonia. Hilltop es una comunidad pacifica, puesta en la sombra por el poder de los Salvadores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x7009qsw4g2j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wx2ea9asmyxr"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gidhrb3knsqa"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Aún no es mañana",
+            "sinopsis": "Rick lidera un ataque contra los Salvadores con la ayuda de Alexandria y Hilltop, Después de que ambos grupos son capturados, Tara y Heath realizan un viaje para encontrar suministros.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f6cyfj6seozh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xlvl8yivxhpa"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ydmh5kluglpa"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Del mismo lado",
+            "sinopsis": "Carol y Maggie deben de luchar por sus vidas después de que son capturadas por un grupo de Salvadores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/sgtthvkphep8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lzhoupidguho"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2bpmig3rvm75"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Dos veces más lejos",
+            "sinopsis": "Con los suministros médicos acabándose, Denise va en busca de más acompañada de Daryl y Rosita. Eugene trata de demostrar su valor a Abraham.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o8ldb90rczc1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1jj7udndivxx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9aasqr8ekrgo"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Este",
+            "sinopsis": "Rick y Morgan se embarcan en la búsqueda de Carol. Daryl y Rosita investigan a Dwight. Glenn y Michonne caen en una trampa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jfw1oqki2w4u"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bmv00q8cj8g8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mjbngprcltvf"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Último día en la Tierra",
+            "sinopsis": "Morgan continúa con la búsqueda de Carol. Rick y el resto del grupo viajan a Hilltop, encontrando como consecuencia una confrontación de vida o muerte.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3wgwgcggzmp5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/x7n3drege8a0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/filtzefrywru"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Llegará el día en el que no estés",
+            "sinopsis": "Siendo brutalmente sometidos por el poder de Negan, Rick y el resto del grupo se encuentran de rodillas, esperando sufrir una perdida que los marcará toda la vida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rfoxnccfgjlt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c7hcrdindbp8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/b3vc64pefzap"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El pozo",
+            "sinopsis": "Carol y Morgan son llevados a una comunidad llamada El Reino que es gobernada por el peculiar Ezequiel y su tigre mascota.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xjrzuzplvdot"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5udubamlihf1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qhw20jdncbpk"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "La celda",
+            "sinopsis": "Daryl es llevado al hogar de Negan y sus Salvadores. Dwight es enviado en una misión para traer de vuelta a un miembro que se fugó.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vqs9jz4pk3c7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kb87mf116wyo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hysgasqxqsh3"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Servicio",
+            "sinopsis": "Mientras Rick y el resto del grupo siguen llorando la muerte de sus seres queridos, Negan y sus Salvadores llegan a Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wubdme8yo9k9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k4m34fvet7uo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/wdvpdbuctyv0"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Emprendedores",
+            "sinopsis": "Maggie y Sasha continúan su luto en Hilltop, mientras Carl y Enid tratan de llegar a la comunidad. Los Salvadores llegan para recoger su tributo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2so0rf0d3c4b"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/l5vyq4w64n45"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2qz4crufaurb"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Jurar",
+            "sinopsis": "Después de ser separada de Heath, Tara se encuentra con un grupo de mujeres sobrevivientes cerca de la costa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bksl6m9gqqc7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2p6ien7xrboo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ismobflyfb1m"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Canta una canción Mientras",
+            "sinopsis": "Eugene y Rosita se dirigen a la fabrica de balas, mientras que Rick y Aaron buscan suministros para Negan. Carl y Jesus continúan su viaje al Santuario.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2peuzuqbvouo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xyvm317ve1j5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/h8pbovcani8k"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Corazones aún latiendo",
+            "sinopsis": "Las visitas de Negan a Alexandria continúan mientras miembros del grupo buscan suministros para él. Las cosas se salen de control rápidamente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hddvdiew5wew"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4x95db0z2wj5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fofpujannmgg"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Roca en el camino",
+            "sinopsis": "Jesus lleva a Rick y al grupo al Reino para tratar de convencer a Ezequiel de que se una a ellos en su lucha contra Negan.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/knzursc0pp3j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wvn1hu4snmr7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kpao48rpcogb"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Nuevos mejores amigos",
+            "sinopsis": "Mientras buscan a Jesus, el grupo se topa con un misterioso grupo de sobrevivientes. Carol y Daryl tienen una emotiva reunión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/c9xefxrpu4jv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rwieumwan6jy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kl0lg4mvvmgf"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Personas hostiles y otras calamidades",
+            "sinopsis": "Eugene comienza trabajar para Negan en el santuario. Dwight realiza una visita a un lugar de su pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rzh2svr0s4nu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7xkn4c8dtamp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rtfkic1sqhd6"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Di que sí",
+            "sinopsis": "El grupo inicia la búsqueda de suministros. Tara debe de tomar una importante decisión que pondrá a prueba su moral.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3fuxoquricaa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o4xd9lnym8pe"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/g1ckfzblcr3k"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Entiérrame aquí",
+            "sinopsis": "Las cosas no salen como estaban planeadas cuando un grupo de habitantes del Reino entrega un tributo a los Salvadores en lo que parece ser una entrega de rutina",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/a22lkkvzameg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dg273xl1vt5j"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xfquxsdeitgp"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "El otro lado",
+            "sinopsis": "Los Salvadores realizan una inesperada visita a Hilltop con la intensión de apoderarse de más suministros.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4xy9p5mqle8j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lb2zzwdmw0u7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/b9nobb06t0dg"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Algo que necesitan",
+            "sinopsis": "Un grupo de habitantes en Alexandria realiza un viaje. Un miembro del grupo deben de tomar una dolorosa decisión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tdt91ci8eima"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m7e6y55fc517"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dzo6p3xgykly"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "El primer día del resto de tu vida",
+            "sinopsis": "El grupo de sobrevivientes ejecuta un intrincado plan luego de que los Salvadores llegan a Alexandria. El riesgo continúa aumentando después de que ambos grupos chocan.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fmt51nli88m4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0c688ijxa7zj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ki5cicnxiwxx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Piedad",
+            "sinopsis": "Rick lidera la unión de bandas para pelear contra Negan y los Saviors.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/31vcqw0nypav"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ylqnq6e7d6et"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fqlslh3md4ja"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Los malditos",
+            "sinopsis": "Rick continua peleando hasta que encuentra una cara conocida. Mientras el plan de los de Hilltop, Alexandria y el Reino se va revelando.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cqff2n4qvf4p"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/no2o1ryuz71z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/t1ht3uqsapu5"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Monstruos",
+            "sinopsis": "Algunos de los conflictos de los Saviors impacta en la vida de los del Reino, Hilltop y Alexandria",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/34xnaip8nu28"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yp4zmznp2b4k"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kslcnu70eud6"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Vaya chico",
+            "sinopsis": "Una nueva arma utilizada por los Savior inclina la balanza en la guerra de clanes. ¿Quién saldrá victorioso?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o125x1z5by42"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dgjy32ndoys6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gwskeyueanzh"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "La aterradora U",
+            "sinopsis": "Un retrato más íntimo de la vida de Negan y los Saviors durante los tiempos de enfrentamiento.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4lcy5b8am8l0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m0gqtznwy62a"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lgchikqlmtgc"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "El rey, la viuda y Rick",
+            "sinopsis": "Parece que las cosas mejoran para Rick y su grupo, pero las decisiones siguen siendo sumamente difíciles.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7dg8y2fq5iy4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/73aczucyj374"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/myoi1aexyiug"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Para después",
+            "sinopsis": "Negan pide la ayuda de sus líderes para resolver un problema con el Santuario.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/t06o7xpn7apa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/38r2qoo0f8mp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/sw7rly4ra0yo"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Como debe ser",
+            "sinopsis": "Todo por lo que Rick y su grupo han peleado llega a un punto de no retorno al presentársele un reto grande que pondrá en peligro la vida de todos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cu725qc1k65c"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qvzledffe83c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gvchlpnhicjf"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Honor",
+            "sinopsis": "A Rick se le presentan nuevos problemas. La batalla sigue en otro lugares, mientras los líderes tendrán que tomar decisiones difíciles.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/gdi5la5y57f8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t341ir5w6xhk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yqrqnpc6sbiz"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Los perdidos y los ladrones",
+            "sinopsis": "Aaron y Enid buscan aliados. Simon resuelve los conflictos a su estilo. Los grupos se unen en Hilltop",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f1v3spy40vtv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c5444bxoorhg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/74zk70qaxy0c"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Muero o vivo o...",
+            "sinopsis": "Se pone a prueba la fe de Gabriel. Daryl se queda junto con compañía poco agradable mientras su equipo marcha a Hilltop.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mmmz18o2h18z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/cj02r0umefc8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mtsvynzmrp90"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "La llave",
+            "sinopsis": "Nuevos visitantes llegan a Hilltop y no son bienvenidos. Rick se encuentra con su rival.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r4xihadsjxao"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/i7ypv5goek9s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gtwwl6sbkvix"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "No nos mandes lejos",
+            "sinopsis": "Cuando los visitantes llegan a Hilltop se encuentran con algunos oscuros descubrimientos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/q7d8hs73ej2s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a72hg854fu8n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vfysh1riqvvt"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Debe significar algo",
+            "sinopsis": "Carol encuentra a alguien en el bosque. Un prisionero hace un descubrimientos. Rick sigue rodeado de extraños.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nydrc40xnfbj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8hrhx1cget8g"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5qnlx17sq8yv"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Valor",
+            "sinopsis": "Aaron continua buscando aliados mientras la amenaza de los Saviors está presente. Daryl y Rosita enfrentan a quien solía ser su amigo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ow86xt6v1xuo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1vnmwkr2k0gc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8y4rtdjq4jxr"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Furia",
+            "sinopsis": "La batalla final contra los Salvadores se lleva a cabo. Todos los clanes unen fuerzas. ¿Sera éste el final de Negan?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/gpidrx7tbtw9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ijlgsm4g5tsg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lozjufjllhkx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Un nuevo comienzo",
+            "sinopsis": "Un nuevo comienzo toma lugar para los sobrevivientes pero muchos de ellos deberán sacrificar su vida. ¿Carol y Ezekiel formalizarán su relación?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ccd3tgx2pe0f"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c174kbnwstyg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/smxuux1i4p55"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El puente",
+            "sinopsis": "La construcción de un puente hará que todos los grupos trabajen en conjunto sin muy buenos resultados: alguien sale terriblemente herido durante la tarea.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6dsiydllhz7k"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/69g0wsnqeh93"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vahkiyinmyw5"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Señales de alerta",
+            "sinopsis": "Daryl cree haber descubierto quién es el traidor de la comunidad y se dirige, junto con Maggie, a su ubicación para darle un castigo ejemplar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/lq2avog5rb1a"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7fukpeto28qm"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5cbjsoy7py1a"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "El obligado",
+            "sinopsis": "El pasado nubla el futuro que Rick había pensado construir para él y su grupo de sobrevivientes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rknbo939ympk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qwklkkbqp0cy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/prlofvzhzhfd"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "¿Qué viene después?",
+            "sinopsis": "Una horda de caminantes amenaza a la comunidad y Rick será quien se encargue de alejarlos. Maggie visita a Negan para ajustar cuentas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6xqvlbmqhksk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/j2zbtiqwys1s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/afqdhgem1ktz"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "¿Quiénes somos ahora?",
+            "sinopsis": "Las vidas de Carol y Herny entran en peligro cuando un grupo de caminantes los atacan. Michonne no es bien vista por cinco sobrevivientes que llegan a Alexandria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fdcgqvs19uwf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2v2cbixxvnl9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/o00cbs2c5knl"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Stradivarius",
+            "sinopsis": "Carol recurre a un extraño que vive desprotegido en la naturaleza. ¿Es hora de que los sobrevivientes busquen un nuevo hogar?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qy0hqbln9lvy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4k7yv9axn5x2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/t6ioykbq7qz3"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Evolución",
+            "sinopsis": "Algo saldrá terriblemente mal en la misión de rescate de uno de los sobrevivientes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mcncp4acl2xg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e4c6p5xfwz7f"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9aktemw3ttin"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Adaptación",
+            "sinopsis": "Michonne, Daryl y Aaron toman una valiosa e inmanejable rehén. Una trágica pérdida aplaca discordias, y Negan se arriesga a salir para ver qué queda de sus dominios.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/y1w2joov7q9a"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zv5xvnhx3mr1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9i5re3gafwdh"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Omega",
+            "sinopsis": "Daryl escucha cuando Lydia le revela su historia a Henry. Pero la memoria es engañosa, y los traumas lo complican todo. La banda de Magna decide actuar por su cuenta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/stl4fmz3s1f4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/pm18793t9y0e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tnxauxgbywq8"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Recompensa",
+            "sinopsis": "Alfa y la feroz banda que dirige proponen un intercambio y demuestran su absoluta crueldad. Entretanto, Ezekiel, Carol y Jerry buscan una luz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/flqgs0t8e5nk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/u3ldwhlmtbae"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hdivjw5amsnc"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Guardianes",
+            "sinopsis": "A Michonne le cuesta mantenerse firme en el consejo. Henry localiza a Lydia, quien se ve arrastrada a una posición imposible. Negan afirma haber cambiado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kdfw9tod0umi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k98geu5wv60w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ogh7jmbphjlu"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Paso estrecho",
+            "sinopsis": "Daryl y Beta tienen una pelea cuando huyen con Connie, Henry y Lydia. Los planes de Ezekiel de montar una feria comercial deben franquear un peaje imprevisto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xxuw5hzlgolc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4tkbiph70sai"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rrweroygzocw"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Cicatrices",
+            "sinopsis": "Una amiga del pasado obliga a Michonne a tomar una dolorosa decisión que endurece su posición frente a los forasteros. Un alma vieja cuestiona su estrategia.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/20esbwqzjr44"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ngshoiq385g6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9645l5cepekd"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "La calma previa",
+            "sinopsis": "Todos se reúnen para la feria y renuevan sus esperanzas. Se reanudan alianzas, pero un enemigo secreto se pone en marcha y está listo para dar un ultimátum demoledor.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d0n3ckk2yg63"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s7javqbfdpsq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dsi4jiq6uthp"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "La tormenta",
+            "sinopsis": "Llega el invierno. Pero los caminantes casi palidecen al lado del clima y la banda de Alfa: un grupo hace un viaje peligroso, y un antiguo oponente da un paso al frente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zgpuo9ljvu43"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t0dztrfx0jgl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ic4qztd1f2gd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 10,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Las líneas que Cruzamos",
+            "sinopsis": "El grupo de Oceanside continúa entrenándose en caso de que los Susurradores regresen; las tensiones son altas, ya que los héroes luchan por aferrarse a su concepto de civilización.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/m4s2aylwxruz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jfdt1isvwctf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ubfacegznu8s"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Nosotros somos el fin del mundo",
+            "sinopsis": "Se revelan los orígenes de Alfa y Beta; Alfa intenta endurecer a Lydia mientras se preparan para caminar con los muertos; los Susurradores crean sus rebaños.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cfdf01f2lo43"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/l0kybybt67hq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/oi0lsue4zfkz"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Fantasmas",
+            "sinopsis": "La amenaza del regreso de los Susurradores lleva a la paranoia sobre Alexandría; mientras tanto, Carol lucha con la necesidad de venganza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ijxq78bojt8o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/tfbxbxonn1k6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/x7m6hobtyuwj"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Silencia los Susurros",
+            "sinopsis": "Los habitantes de Alexandría aún paranoicos se enfurecen con los Susurradores y se desquitan con Negan; de vuelta en Hilltop, el grupo se ocupa de un asunto de seguridad inesperado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pnnma31yi5mx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/birg4z0g2k9p"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/aotvztyvnurd"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Lo que Siempre es",
+            "sinopsis": "Los suministros desaparecen de Hilltop; Negan es idolatrado por un habitante de Alexandría; Ezequiel guarda un secreto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dteehkssnnuq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/la85z22gbmqz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/m4kn9aghd48x"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Vínculos",
+            "sinopsis": "Carol y Daryl van juntos a una misión mientras Siddiq lucha por resolver un misterio.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/e7qaf9y6ta5h"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/njx4sipctp0h"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yqebiboibkoa"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Abre los Ojos",
+            "sinopsis": "Carol empuja los límites que hacen que Daryl se sienta incómodo; Alfa y Beta tienen dudas sobre alguien.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f8foi12i1sux"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/oav51253r71z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ujos28znqs99"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El Mundo Antes",
+            "sinopsis": "Una pelea causa tensiones en Oceanside mientras que los habitantes de Alexandría emprenden una misión de alto riesgo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6r0ms4yz97w6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xrrg8h5tn70w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lwog2jwtaugr"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Presión",
+            "sinopsis": "En el estreno de la mitad de temporada, nuestro grupo debe averiguar cómo salir de una situación precaria.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v4pcehc7thui"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ree7bdc6rmve"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pzizmkricuaw"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Acecho",
+            "sinopsis": "Nuestro grupo debe defender Alexandría de una fuerza exterior amenazante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/texrj8334712"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k24zer4ksl4e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/g2qnegvl2oxk"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Estrella de la Mañana",
+            "sinopsis": "Los Susurradores vienen por Hilltop. Después del encuentro de Daryl y Lydia con Alfa, las comunidades deben decidir si huir o luchar. Mientras tanto, la comunicación de Eugene con Stephanie se complica.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0wbuwmonl1pz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/l3ai34tw1nx5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7eu5vwttaqqv"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Camina con Nosotros",
+            "sinopsis": "Negan ayuda a los Susurradores y a Alfa a lanzar un ataque contra Hilltop.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/t1ah0yfjbvxc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bszcne70cldn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lf6mmaajonj7"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "En lo que nos Convertimos",
+            "sinopsis": "Michonne lleva a Virgil de vuelta a su misteriosa isla para reunirse con su familia; a cambio, Virgil promete armas que podrían cambiar la marea de la Guerra de los Susurradores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3zzh3gxs5lgf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/comiv753mhc9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/behmj9rwb8af"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Mira las Flores",
+            "sinopsis": "Los héroes y villanos calculan las consecuencias del incendio de Hilltop; Eugene lleva a un grupo en un viaje para conocer a Stephanie, con la esperanza de entablar amistad con otra civilización.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jvdfpbcrczwl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/maxm1xqhcemk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/j6b4wdtpcz94"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "La Torre",
+            "sinopsis": "Las comunidades se preparan para la batalla final de la Guerra de los Susurradores. Mientras tanto, el grupo de Eugene se encuentra con la Princesa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rnlanph3hhc7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wxnkylz38hbj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/n2wrqn1genjx"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Un Destino Cierto",
+            "sinopsis": "La batalla final contra Beta y sus aliados está en su punto álgido. Aaron y Alden se encuentran en un aprieto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3omp2850uq7r"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lofno9jas1tk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xe8tyunzurla"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "Hogar, Dulce Hogar",
+            "sinopsis": "Maggie ha regresado con una historia que no está lista para compartir, incluso cuando su pasado la alcanza. La seguridad de Negan está en peligro de nuevo. Daryl y Maggie luchan contra una amenaza invisible y desconocida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vdy3s7p5n5j2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ny3lzk1lciwp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/abrxmlh0bhtf"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Búscame",
+            "sinopsis": "Una aventura para Daryl y Carol se tuerce cuando se encuentran con una vieja cabaña. Daryl se remonta a los años en que dejó el grupo después de que Rick desapareciera mientras revive una época que solo el apocalipsis podía provocar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/24ef5k34dd6n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/uo6yxtxnbnzm"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8huv9dwmo7dt"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "Una Más",
+            "sinopsis": "Gabriel y Aaron buscan comida y suministros para llevarlos a Alejandría. Las pequeñas tragedias conducen a tragedias más grandes, ya que la fe se rompe y el optimismo se fragmenta cuando se ponen a prueba.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1byvz62td2hr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/pdyc0930b1vb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kd0dz3kr4m7r"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "Astilla",
+            "sinopsis": "Eugene, Ezekiel, Yumiko y Princess son capturados y separados. Princess lucha con los recuerdos de su traumático pasado y trata de escapar de una forma u otra con la ayuda de Ezekiel.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kviwj8rov9hf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vb05bp4suomk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qtob3ed2ytom"
+              }
+            ]
+          },
+          {
+            "numero": 21,
+            "titulo": "Separación",
+            "sinopsis": "Daryl y Carol llegan a una bifurcación en el camino y toman caminos separados. Cada uno entra en su propio tipo de modo de supervivencia, los desafíos más fáciles se vuelven mucho más difíciles. ¿Serán sus viajes individuales el punto de inflexión necesario para enmendar su amistad, o la distancia entre ellos es permanente?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vudid40tevyc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/spl8dorqfa7d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zj8ptbu8nkos"
+              }
+            ]
+          },
+          {
+            "numero": 22,
+            "titulo": "Aquí Está Negan",
+            "sinopsis": "Carol lleva a Negan a un viaje, con la esperanza de minimizar la creciente tensión. Negan reflexiona sobre los eventos que lo llevaron a este punto y llega a una conclusión sobre su futuro.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/iddaz3lcooy1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s975jngpe63f"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dpv1jirsxlxv"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 11,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Aqueronte: Parte 1",
+            "sinopsis": "Al regresar a Alexandria de una misión de emergencia en busca de comida, el grupo se da cuenta de que no es suficiente. Maggie propone un nuevo plan, una misión potencialmente suicida. ¿Qué otra opción hay? Deben encontrar más comida para toda su gente a fin de sobrevivir y reconstruir Alexandria de manera eficiente. Si no lo consiguen, Alexandria caerá y se los llevará consigo. Una vez en la carretera, estalla una violenta tormenta que los obliga a entrar en un túnel subterráneo. A medida que los nervios afloran y aumentan las sospechas, se produce el caos. El terror es implacable a medida que nuestra gente vislumbra lo que Maggie y su grupo soportaron antes de regresar a Alexandria. Mientras tanto, los capturados por los extraños soldados son reubicados en un lugar no revelado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xiajblwdo1tp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/usgveza06866"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/frnaewk92maz"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Aqueronte: Parte 2",
+            "sinopsis": "El grupo descubre que un miembro no ha llegado a un lugar seguro dentro del vagón de metro. Rodeado de caminantes, volver al túnel para buscarle es muerte segura. Todas las miradas están puestas en Negan a medida que cambian las reglas de supervivencia. El lema ya no es \"nadie se queda atrás\".",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/diky8hxked76"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/241zoq6qc17m"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mcb1lxxju9w5"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Cazado",
+            "sinopsis": "El equipo de misión de Maggie se separa y es perseguido por Los Segadores; Carol, Rosita, Magna y Kelly intentan atrapar caballos para Alexandria; Judith, RJ, Hershel y Gracie hacen frente a la marcha de sus padres.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ggre7objh83s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rxac71ktshbf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ufzepc6wzqg5"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Rendición",
+            "sinopsis": "Daryl y Dog son capturados por Los Segadores; son llevados al Meridiano y se vuelven a conectar con una figura familiar de su pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vrbiqy7ydhno"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2ywp4xo1r4h3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mhdbcze7jwcf"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "De las Cenizas",
+            "sinopsis": "Los habitantes de Alejandría se encuentran con ocupas ilegales en Hilltop; El grupo de Eugene se somete a orientación en la Mancomunidad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ju8ie7nipoop"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hco0lfrkmg4x"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rfwby9tbpyfu"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Por Dentro",
+            "sinopsis": "Escapando de los caminantes, Connie y Virgil se esconden en una casa ocupada por misteriosas criaturas. Pope pone a prueba la lealtad de Daryl a los Segadores con una misión conflictiva. Kelly deja Alexandria en busca de Connie.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kr70c827o2nm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0gsy1aytxg2x"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fdy3jirlbafn"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Promesas Rotas",
+            "sinopsis": "Maggie aprende una táctica de supervivencia de Negan; El grupo de Eugene despeja a los caminantes; Daryl caza con Leah.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vy9tludcopq7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/idrl8zwep3oc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mitiqydfungo"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Por Sangre",
+            "sinopsis": "Los Segadores defienden Meridian de una manada. Los alejandrinos se protegen de los caminantes durante una tormenta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9gpjcd8qcxjw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rwzz5q7aj3oy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/a6xo3ftiytbl"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Sin Vuelta de Hoja",
+            "sinopsis": "Daryl, Maggie, Gabriel, Negan y Elijah luchan contra los Cosechadores por comida. Mientras tanto, Aaron y los alejandrinos deben sobrevivir a una tormenta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w7p06w3ief9o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8r3t6f7pyft9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gtqtnkmxbpzj"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Nuevas Rutas",
+            "sinopsis": "Han pasado semanas desde que los alejandrinos llegaron a la Mancomunidad. Ahora, se adaptan a sus clasificaciones, sus trabajos asignados y la rareza de hacer nuevos amigos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/71uv7qa1ahaq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7hyo5s10i589"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fxmizs7qvxjq"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Individuos Rebeldes",
+            "sinopsis": "Eugene busca a Stephanie cuando desaparece misteriosamente. Connie investiga una historia sobre Trooper Davis, y Carol ayuda a Hornsby con una disputa laboral en una granja de drogas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jsow01sfxgxa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/iviyfgqbygfi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eyzqoyaichc0"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Los Afortunados",
+            "sinopsis": "Aaron y Maggie conocen a la gobernadora Pamela Milton mientras ella recorre Alejandría, Oceanside y Hilltop. Ezekiel tiene suerte durante un chequeo de rutina. Eugene procesa la historia de Max.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g1i1aodc9sd8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3r1tr8l22znu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9k7lzcgqllk3"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Señores de Guerra",
+            "sinopsis": "Maggie, Lydia y Elijah ayudan a un extraño de otra comunidad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6xn1nnwl1mva"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ebensvwujak2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/z8nlzatbjnfp"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Núcleo Podrido",
+            "sinopsis": "Maggie, Lydia y Elijah ayudan a Aaron y Gabriel en una misión; Daryl y Rosita organizan un atraco.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bglb0v4qkner"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/g2tfqa70ms3z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/p2kmh6ojrpfc"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Confia",
+            "sinopsis": "Hornsby inspecciona la carnicería humana acumulada en el complejo de apartamentos Riverbend. Sabe que no cuadra y está decidido a demostrarlo de alguna forma. Tomando las riendas, Daryl, Gabriel, Aaron y Maggie intentan estar ir paso por delante suya. A medida que se revelan secretos, se traspasan límites y aparece un nuevo trabajo inesperado. Ezequiel también tiene un secreto; uno que espera compartir con Carol. Hornsby marcha con Daryl y las tropas para enfrentarse a Maggie en Hilltop. Rosita investiga a los Milton.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/svi6vd7gdyba"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vpmz9972r5ak"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iai2otbfg4ay"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Actos de Dios",
+            "sinopsis": "Nuestros héroes están atrapados en situaciones que no pueden controlar. Todas las personas por las que han trabajado tan duro para proteger están en riesgo, ya que el peligro los acecha a cada paso. Todo está en juego. Ahora, deben decidir a quién y qué vale la pena salvar. Cada decisión viene con sus consecuencias. Mientras tanto, la relación de Eugene y Max avanza, pero también lo hacen los problemas que se están gestando dentro de la Mancomunidad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3xagesiqn0d5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7k87tkalafob"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xzbteydhxsz3"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "Bloqueo",
+            "sinopsis": "Daryl y Negan acuden a la Mancomunidad para evitar que Hornsby vaya a por sus familias. Pamela se ocupa de los manifestantes que exigen justicia por los crímenes de Sebastian. Mercer necesita la ayuda de Rosita para luchar contra un enjambre.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cpqdsrrnbzk3"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/q8cjkx13v55b"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jkur5u2xherp"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Nuevo Trato",
+            "sinopsis": "Carol hace un trato con Pamela para hacer borrón y cuenta nueva en nombre de sus amigos. Aaron, Jerry, Lydia y Elijah se ponen en camino hacia Oceanside para ponerlos al tanto de un plan. La Mancomunidad celebra el Día de los Fundadores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ia5kyk9pn2o4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s3atmxw3mu38"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jnkbtwpvd07i"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "Variante",
+            "sinopsis": "Eugene se da a la fuga y Mercer es el encargado de encontrarlo; el grupo de Aaron se enfrenta a una complicación en el camino.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7kcbmiu2lot1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/h4ai6zftke7w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gpfoox6i65ml"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "Lo que se ha perdido",
+            "sinopsis": "Daryl y Carol investigan el paradero de sus amigos después de que Pamela los hiciera desaparecer de la Mancomunidad. Por desgracia, su única pista es Hornsby. Mientras tanto, Pamela le pide a Yumiko que procese a Eugene en nombre de la Mancomunidad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x8xubx96aoqr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rnfogr12xhyl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rci18u9dsat7"
+              }
+            ]
+          },
+          {
+            "numero": 21,
+            "titulo": "Puesto 22",
+            "sinopsis": "Separados de sus hijos, Maggie, Gabriel y Rosita rastrean un convoy militar hacia un destino misterioso. Ezekiel, Kelly, Negan y Annie se encuentran en un lugar de trabajo. Daryl y Carol siguen un tren que se ha llevado a Connie a bordo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/l7p08y7982di"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8klc00q49tsn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rzusfleecgph"
+              }
+            ]
+          },
+          {
+            "numero": 22,
+            "titulo": "FÉ",
+            "sinopsis": "Ezekiel y Negan se unen para liderar una revuelta laboral clandestina contra el alcaide. Aaron, Jerry, Lydia y Elijah se ponen al día con Luke y Jules que huyen de Oceanside. Eugene se enfrenta a un juicio con Yumiko como su abogada defensora.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/61eewwt57x8k"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/f5w1h5ukg4n8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jexcwqsxtjgr"
+              }
+            ]
+          },
+          {
+            "numero": 23,
+            "titulo": "Familia.",
+            "sinopsis": "Los alejandrinos y los prisioneros regresan a la Comunidad para enfrentarse a Pamela Milton. Mientras tanto, un enjambre se acerca a la ciudad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o0rpuc7dl47j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t8jmhavw9rgu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ljp1otjjvvoy"
+              }
+            ]
+          },
+          {
+            "numero": 24,
+            "titulo": "Descansa en paz",
+            "sinopsis": "Daryl y Carol llevan a Judith al hospital; Rosita, Eugene y Gabriel buscan a Coco; Maggie y Negan toman las armas contra Pamela; los héroes se reúnen para una última batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/aii8fp0dr0o4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0d68v98ofef9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/euvnakywqvvt"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1399,
     "titulo": "Game of Thrones",
     "sinopsis": "En un mundo fantástico y en un contexto medieval varias familias, relativas a la nobleza, se disputan el poder para dominar el territorio ficticio de Poniente (Westeros) y tomar el control de los Siete Reinos desde el Trono de Hierro, lugar donde el rey ejerce el poder.",
