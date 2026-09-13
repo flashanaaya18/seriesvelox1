@@ -5709,104 +5709,597 @@
         "numero": 1,
         "episodios": [
           {
-            "numero": 1,
-            "titulo": "Episodio 1",
+            "numero": 2,
+            "titulo": "Ep. Siguiente",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/LaAyeqx9VRtRRlg"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/idg9lz8yybq4"
               },
               {
-                "nombre": "EarnVids",
-                "url": "https://earnvids.com/embed/w76tohb0jhrd"
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/ht0jdbcneod2"
               },
               {
-                "nombre": "StreamHG",
-                "url": "https://streamhg.com/e/kgkuzigcxzje"
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/fledobzhzyqq"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/rww5z620v6fd"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/cdm02t7f77jo"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/elnje0rriln3xx"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/bani0l8ccnss"
+              }
+            ]
+          },
+          {
+            "numero": 1,
+            "titulo": "[01x01] encantado29 m • 28/08/2026sebastian queda encantado",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/qu9vwsuhpumf"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/e1317hb0fqci"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/bneawwj1r155"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/fqgglwhyr56s"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/nl0rmnkmalj6mw9"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/eughbjyb2284"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/xnl633hbgr7t"
               }
             ]
           },
           {
             "numero": 2,
-            "titulo": "Episodio 2",
+            "titulo": "[01x02] Episodio 227 m • 28/08/2026",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/XgvVWkvAWYHzDx"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/idg9lz8yybq4"
               },
               {
-                "nombre": "EarnVids",
-                "url": "https://earnvids.com/embed/co8robix5xbt"
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/ht0jdbcneod2"
               },
               {
-                "nombre": "StreamHG",
-                "url": "https://morencius.com/e/wpu43gype8qu"
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/fledobzhzyqq"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/rww5z620v6fd"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/cdm02t7f77jo"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/elnje0rriln3xx"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/bani0l8ccnss"
               }
             ]
           },
           {
             "numero": 3,
-            "titulo": "Episodio 3",
+            "titulo": "[01x03] Episodio 326 m • 28/08/2026",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/0DQDQYV13lfb8jb"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/4hafl0r47keh"
               },
               {
-                "nombre": "EarnVids",
-                "url": "https://earnvids.com/embed/yv9y58b3tdg4"
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/uo2vrupdv7nk"
               },
               {
-                "nombre": "StreamHG",
-                "url": "https://hgcloud.to/e/620nysj7yvft"
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/9dzg01zl14yk"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/f5rp1gg60q4p"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/gjnxo0k8hwwkndv"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/emwdxgs4spqh"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/qsmlopxdjifv"
               }
             ]
           },
           {
             "numero": 4,
-            "titulo": "Episodio 4",
+            "titulo": "[01x04] Episodio 426 m • 28/08/2026",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/wGrg83A6yyCJvKl"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/mr2cowpi33eh"
               },
               {
-                "nombre": "StreamHG",
-                "url": "https://hgcloud.to/e/3bvq8eqyk807"
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/07xgxbj5hamj"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/iu8k7jnjr1l8"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/1y264oxhycwo"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/wlnrxkppc46mq4"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/is9kgb81agtg"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/gj3i17xdi0rv"
               }
             ]
           },
           {
             "numero": 5,
-            "titulo": "Episodio 5",
+            "titulo": "[01x05] Episodio 531 m • 28/08/2026",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/mkqAXZwYPkCQ8w"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/4wixpb2gofow"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/dzsr3tk9ua05"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/xwo6joolaleeekm"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/wo8vel1o7ol1"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/7yvyujkm265w"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/f2pujqvck1it"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/yfxuz1napc1j"
               }
             ]
           },
           {
             "numero": 6,
-            "titulo": "Episodio 6",
+            "titulo": "[01x06] Episodio 630 m • 28/08/2026",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamtape",
-                "url": "https://streamtape.com/e/aoyl1KQq7dcx62z"
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/6oe8pmwzpycb"
               },
               {
-                "nombre": "Morencius",
-                "url": "https://morencius.com/embed/i1z32pmm3087"
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/akjtfh1hnaf3"
               },
               {
-                "nombre": "StreamHG",
-                "url": "https://hgcloud.to/e/ledmj7gzbaes"
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/h87z1zc6uts9"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/xwk1ik4c878j"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/6ufi4wrvli86"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/l76rw6zpu47jwm"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/yztfd5levzu7"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "[01x07] Episodio 726 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/xtnx5ipfv4y9"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/rbqkz07x6dhd"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/wauix00e0yin"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/nw1s8pnkcma3"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/3haxeye3mb81"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/vknrlv9muqg636p"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/pdb4d6s2uz6v"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "[01x08] Episodio 838 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/a30dlftqwo9z"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/m1o0fc9hilcj"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/gfh6kxdrc4pf"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/hwjd4gozlfwe"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/pjkqmnzwig7rzl0"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/u2yhdpcuivfp"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/vx2i8d304pvg"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "[01x09] Episodio 929 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/zuqvb9qc4f0s"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/ysby2v7iua7l"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/kbwqvjobscc8"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/id5fjfvoyfhj"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/z1p0derwhzg7g9"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/7hcefx0nco45"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "[01x10] Episodio 1026 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/wvpmjatcf81j"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/sznbaqhovtl1"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/ue7sf6mcqa44"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/47bivnm3xjd4"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/u82h1r8jxvd8"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/0mrhudh7n0f0"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/r6w4dqnwb3z93e"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "[01x11] Episodio 1124 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/krkyepfdw4q1"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/hbpnj4j4nkqk"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/zd988tkb7p26"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/xwo6jvplb6lk0x"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/pq72hixkkklk"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/epv3uimlytao"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "[01x12] Episodio 1224 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/gjhi2gkqbz5g"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/3rtyfokmoeml"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/e3lxo8lpan42"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/cgn4kq5phl28"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/03vwr8rxc6o7l6"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/dm1ognq5q72f"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/hhy2r9n00b6r"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "[01x13] Episodio 1328 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/7lhgozhfjcq1"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/6407ofaii2ko"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/8lpxfbu88zaa"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/03vwrwqgfenzxl"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/bpj1skwt0qc5"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "[01x14] Episodio 1425 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/qibc81lyq67d"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/0iwvrvkfexxm"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/fjgevyq3paa8"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/kweb8o3bge89"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/gjnxoxl1fp81xm"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "[01x15] Episodio 1527 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/7svveltdlj0l"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/oou0qrqaer9l"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/rkxhj3iajc5s"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/67qgdjx9cl86vke"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/muhxtpzftmcf"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "[01x16] Episodio 1635 m • 28/08/2026",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Voe",
+                "url": "https://voe.sx/e/avddm1xooesn"
+              },
+              {
+                "nombre": "Dood",
+                "url": "https://dsvplay.com/e/k96rhp7ofsnd"
+              },
+              {
+                "nombre": "Byse",
+                "url": "https://bysesukior.com/e/6m3lb50stgri"
+              },
+              {
+                "nombre": "Streamwish",
+                "url": "https://vibuxer.com/e/"
+              },
+              {
+                "nombre": "Lulustream",
+                "url": "https://lulustream.com/e/gkjgsl47gx6y"
+              },
+              {
+                "nombre": "Mixdrop",
+                "url": "https://mixdrop.top/e/nl0rmoxvsmkmvg"
+              },
+              {
+                "nombre": "Earnvids",
+                "url": "https://morencius.com/embed/"
               }
             ]
           }
