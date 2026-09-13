@@ -173,6 +173,9 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Drama"
     ]
   },
   {
@@ -3601,6 +3604,11 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
     ]
   },
   {
@@ -5004,6 +5012,11 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
     ]
   },
   {
@@ -5608,6 +5621,10 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Drama",
+      "Misterio"
     ]
   },
   {
@@ -5642,6 +5659,11 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Misterio",
+      "Sci-Fi & Fantasy",
+      "Drama"
     ]
   },
   {
@@ -5695,6 +5717,11 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Action & Adventure",
+      "Drama",
+      "Comedia"
     ]
   },
   {
@@ -6305,6 +6332,10 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Comedia",
+      "Sci-Fi & Fantasy"
     ]
   },
   {
@@ -6415,6 +6446,10 @@
           }
         ]
       }
+    ],
+    "generos": [
+      "Comedia",
+      "Drama"
     ]
   }
 ]
