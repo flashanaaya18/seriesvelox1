@@ -1,5 +1,119 @@
 [
   {
+    "id": 325082,
+    "titulo": "Tierra de Amor y Coraje",
+    "sinopsis": "Dos familias ganaderas enfrentan una rivalidad marcada por el orgullo, el poder y la ambición.",
+    "poster": "https://image.tmdb.org/t/p/w500/AooIk6ob55gqNwefEwKJoHNy6No.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/b5ELWgY2pi1DcDyrltoEYd5jEhL.jpg",
+    "anio": "2026",
+    "generos": [
+      "Soap",
+      "Familia"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Tierra de amor y coraje Capítulo 1",
+            "sinopsis": "Juan Manuel es el patriarca de la familia Coraje y se encuentra en apuros económicos. Sus hijos, Juan, Jero y Lalo son tres jóvenes muy distintos que aman sus tierras. La familia Barrios son sus vecinos y tienen muchas fricciones con ellos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/h4o72l260h3s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s2yjuuaxzb46"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lasjyenluo77"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Tierra de Amor y Coraje Capítulo 2",
+            "sinopsis": "Rogelio Barrios envía a su hombre de confianza, Falcón, a asesinar a Juan Manuel y su esposa. Los Coraje reciben la noticia de que sus padres han muerto y su mundo cambia por completo. Rogelio quiere comprar las tierras de los Coraje a como de lugar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kr8sja4e1rb6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4um4o4wdg1vj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/wjheei9mwviv"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Tierra de Amor y Coraje Capítulo 3",
+            "sinopsis": "Clara es la hija de Rogelio y esta de regreso para tomar las riendas del rancho de su padre. Ella buscará que la relación con los Coraje sea mejor por el respeto que les tuvo a sus padres. Los Coraje se dan cuenta que su padre tenía muchos problemas de di",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/le30ldlz5cpj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9vj1e6m8a4ld"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qvg0kfseykkm"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Tierra de Amor y Coraje Capítulo 4",
+            "sinopsis": "Falcón paga a un ayudante para que haga que los caballos del rancho de los Coraje se escapen. Clara intenta ayudar a los Coraje, pero Juan cree que no lo hace de buena fe. Rogelio tiene mas de un aliado para eliminar a su competencia.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/p8kt17vr6osf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8hsdkr9iy4uw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yc22vhb8z7s6"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Tierra de Amor y Coraje Capítulo 5",
+            "sinopsis": "Clara quiere hacer las cosas bien y estar en paz con los Coraje, así que le pide a Juan hacer una puerta para que sus animales puedan tomar agua en el lago. Rogelio manda a investigar el lago y resulta que en el lado de los Coraje hay riqueza escondida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/14tm3ofg25it"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fm9sx4iv97qk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ocfgymtkvyhx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 287620,
     "titulo": "Stuart no logra salvar el Universo",
     "sinopsis": "A Stuart Bloom se le encomienda la tarea de restaurar la realidad después de provocar un Armagedón multiverso.",
