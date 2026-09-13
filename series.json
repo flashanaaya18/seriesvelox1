@@ -1,5 +1,1741 @@
 [
   {
+    "id": 44217,
+    "titulo": "Vikings",
+    "sinopsis": "Narra el ascenso del legendario guerrero Ragnar Lothbrok. La trama sigue su evolución desde un humilde granjero escandinavo hasta convertirse en un poderoso rey vikingo tras desafiar a los líderes locales y explorar exitosamente tierras desconocidas hacia el oeste.",
+    "poster": "https://image.tmdb.org/t/p/w500/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "anio": "2013",
+    "generos": [
+      "Acción & Aventura",
+      "Drama",
+      "War & Politics"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Ritos de iniciación",
+            "sinopsis": "Ragnar Lothbrok está decidido a navegar hacia el oeste para descubrir nuevas tierras y riquezas a pesar de una intimidante advertencia del conde Haraldson.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/azacx90kthwi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/eiwv6p047z9k"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/54vuhiydseg3"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "La furia de los hombres del norte",
+            "sinopsis": "Ragnar y su tripulación se preparan para su primer viaje rumbo al oeste, y el furioso conde Haraldson jura vengarse por tal acto de rebeldía.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/as8w8hjk24is"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/exe5jdanl48c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fqxz2liajf0z"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Desposeídos",
+            "sinopsis": "El primer atraco a Inglaterra a manos de los vikingos es todo un éxito, y Ragnar elige una recompensa inusual, mientras Haraldson confabula estrategias para imponerse.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/62m80u0xk096"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3xt6go7kctuv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/wyoquap0sc28"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Juicio",
+            "sinopsis": "Acompañado por Lagertha, Ragnar saquea el pueblo inglés Hexam y, a su regreso, debe enfrentarse a Haraldson y darle explicaciones sobre una muerte inesperada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fiuxc6f3nm7w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/97ra7aiv2p60"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5bnmjz6ujkj4"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Asalto",
+            "sinopsis": "La paranoia de Haraldson lo lleva a atacar a Ragnar, y después de salvarse por muy poco, Ragnar debe elegir entre una vida en el exilio o una batalla hasta la muerte.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ay55f7wg162t"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zi8q3zjp6y12"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/sf9ybf7pf0dw"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "El entierro de los muertos",
+            "sinopsis": "Aunque aún está débil, a Ragnar no le es indiferente la tortura sufrida por su hermano, así que desafía a Haraldson a un duelo a muerte.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/orv0hbwf71px"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wxoa61s45agt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mnlysth1noop"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "El rescate de un rey",
+            "sinopsis": "Ragnar y sus hombres luchan contra el ejército del rey sajón Aelle, y la traición en ambos bandos amenaza con arruinar los intentos de lograr un acuerdo de paz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vqh28jvuhr4i"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2o42wzswk851"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lvy8awgcj6jq"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Sacrificio",
+            "sinopsis": "Durante una tradicional peregrinación para agradecer a los dioses, Ragnar, Lagertha y Athelstan se ven envueltos en luchas de lealtades internas y entre ellos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7vwqr5aaefgo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ppmhfhl084yt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xuc1z4n3bsan"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Todos cambian",
+            "sinopsis": "Mientras Ragnar emprende una misión diplomática para el rey, Rollo cambia de bando, y Lagertha combate una arrasadora epidemia mortal en el pueblo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3sqjv6s5llyo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s9203f1tutqb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tdaliaddkxlm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Guerra entre hermanos",
+            "sinopsis": "La guerra entre Ragnar y las fuerzas del rey Horik contra Jarl Borg confronta a los hermanos. La princesa Aslaug llega a Kattegat, con una sorpresa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/z218exy7mrhp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zoue8i5dkly1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/apnc6n5jmuoq"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Invasión",
+            "sinopsis": "Una inesperada alianza se forma gracias a un mismo objetivo: invadir Inglaterra. Ragnar y su tripulación se desvían por una tormenta y se enfrentan con un enemigo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/y02sn35too7w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/n2af48xad26s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zm4wzyn5fqtv"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Traición",
+            "sinopsis": "El rey Ecbert se topa con un enemigo nuevo. Ragnar compite por el dominio del oeste, pero Jarl Borg tiene sus propios planes para el futuro de Kattegat.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ekr3te9lheon"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3v0vz6yqot36"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jqwnn7zdmvjb"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Ojo por ojo",
+            "sinopsis": "La reunión de Ragnar y Ecbert puede allanar el camino para un compromiso futuro. Jarl Borg gobierna Kattegat con mano de hierro, así que Rollo se pone al frente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tjaf8nrcis58"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rdg7qykte7bg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gtyjfroafsor"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Respuestas en sangre",
+            "sinopsis": "Con los refuerzos de Lagertha, Ragnar ataca para recuperar Kattegat de Jarl Borg. En Wessex, Athelstan lucha con sus viejas creencias cristianas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/q27f39ibj1by"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7wfi1qvrpw4i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4yuyrl07ydp9"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Imperdonables",
+            "sinopsis": "Horik vuelve a Kattegat con una propuesta para Ragnar. Lagertha regresa a casa y no es bien recibida. Athelstan se vuelve el confidente del Rey Ecbert.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/s0qfyg31qgci"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1xdrowgjlpe9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1au9iciihccu"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Águila de sangre",
+            "sinopsis": "Ragnar y el rey Horik chocan por las diferencias al impartirle justicia a Jarl Borg. En Wessex, llega el rey Aelle y Ecbert tiene la mira en una nueva alianza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/almtszgypwaq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/098ghtpovw90"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/96ln5u5orc2j"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Deshuesado",
+            "sinopsis": "La profecía de la princesa Aslaug se cumple mientras se prepara para otro nacimiento. Ragnar y Horik tienen distintos objetivos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0d9r4u3jokxs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qvvcxpvuy2hv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7c6q2upfo7l7"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "La elección",
+            "sinopsis": "Los guerreros vikingos de Ragnar se dirigen a la villa del rey Ecbert y se encuentran con un grupo nada amigable. Una sangrienta batalla da pie a nuevos términos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/07qpf2h3tmvy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0loq3s501yen"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eqbflv2p9xf5"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "El padre nuestro",
+            "sinopsis": "Ragnar y el rey Horik vuelven a Kattegat, el enfrentamiento final está a la vista. Para Ragnar, llegó el momento de confiar en nuevas alianzas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2rq8kru1xeiv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k9x5pqoieice"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/w8i0vxue8dtu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Mercenario",
+            "sinopsis": "Las flotas de Ragnar y Lagertha viajan a Wessex con un grupo que intenta colonizarlo. El rey Ecbert hace una oferta y Ragnar forma una alianza sorprendente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/l4sf65vvxhy2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/g2grr7y7r64d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/f57dcqwiochq"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El descarriado",
+            "sinopsis": "Lagertha y Athelstan ayudan con el asentamiento en Wessex, mientras tanto, la llegada de un extraño confirma un sueño de Aslaug, Siggy y Helga.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rz684204xqy9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/h7ru2t9ufcv7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vjnuk7dkav4g"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "El destino del guerrero",
+            "sinopsis": "El rey Ecbert visita el asentamiento vikingo, mientras tanto, los guerreros inician una batalla con Mercia. Siggy se muestra cautelosa ante el misterioso Harbard.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4wimn7g38o2k"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/whlt9j29qc75"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/duvmemupvhdb"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Marcado",
+            "sinopsis": "Los guerreros regresan victoriosos, sin embargo, Floki no aprueba la alianza con Ecbert. La princesa Kwenthrith toma decisiones estratégicas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2srij9d26ggv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e0i89enuv68t"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fz5mpwz8jtej"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "El usurpador",
+            "sinopsis": "Los guerreros vuelven a Kattegat, donde les aguarda una tragedia. Lagertha insiste en que Ragnar viaje a Hedeby y recupere su título. Rollo descubre una profecía.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/j9ir29b8mhsb"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kq5v6bxqv921"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/w4gauptbb4kz"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Vuelto a nacer",
+            "sinopsis": "Rollo reflexiona sobre la profecía mientras continúan los preparativos para el ataque de París. Kalf llega hasta Kattegat. Porunn y Judith dan a luz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xf31pm5hop3d"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/02wk256ukmcn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ezbgkjzu2mcy"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Paris",
+            "sinopsis": "París entra en pánico tras atestiguar la llegada de la flota vikinga, sin embargo, el conde Odo está convencido de que la ciudad puede con el ataque.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ehs4krow0u29"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mi3g2ho1e8dm"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ge2ynoqtowmx"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "¡A las puertas!",
+            "sinopsis": "En París, el conde Odo ordena la clausura de la ciudad para protegerla de la invasión, pero las fuerzas vikingas no se detendrán ante nada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ytzpt50dbulb"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4dj57atzg1cv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e8imi9rhjsww"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Punto de quiebra",
+            "sinopsis": "En París, los guerreros ejecutan un brutal ataque que obliga al emperador a tomar una difícil decisión, algo que Judith también enfrenta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vgsbkuygoi3p"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/aisa1ft3zwai"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/spzaihck0gey"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Los muertos",
+            "sinopsis": "En su última oportunidad para invadir París, Ragnar y sus tropas tienen una sorprendente estrategia. Rollo conoce su destino y Bjorn toma su rol de líder.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0mrqfx5a0qcy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6sqf7h4o4wjp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/febj8dwdulis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Una buena traición",
+            "sinopsis": "Ragnar tiene una pesadilla perturbadora, Aslaug busca respuestas sobre el futuro, Rollo da un paso importante, y Floki se enfrenta a Bjorn.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ia5gzqqg9is6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/w5cvcvvlyuvt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bvqqfe0p0xuy"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Muerte a la reina",
+            "sinopsis": "Bjorn se lanza en una misión de supervivencia, Ubbe demuestra su resistencia en una cacería, las circunstancias de Floki empeoran, y Rollo se esfuerza por integrarse.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f968u593u1af"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r2tart6l19kn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tih2lxmbih2a"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Clemencia",
+            "sinopsis": "Ragnar y Ecbert comparten una visión, la novia de Rollo no se deja conquistar, y Bjorn se enfrenta a un feroz adversario en medio de la naturaleza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/e6uu030ii4m1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/nd9kv36308ip"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/smexyr0gfbw8"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "El solsticio de invierno",
+            "sinopsis": "Frente al crepitar del fuego del gran salón, Ragnar y Yido se dan cuenta de que comparten un destino. Mientras tanto, Bjorn lucha por su vida y su amor.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/sgcnfuwa1tgj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3heplqqc202k"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/decu5vwotjxk"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Prometida",
+            "sinopsis": "La confianza continúa creciendo entre Ragnar y Yidu, un visitante inesperado llega a Kattegat, y una celebración da un giro inesperado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bj1kmn6jk835"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/p47q8jmrey7d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jvnnayyvrnhu"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Lo que podría haber sido",
+            "sinopsis": "Ragnar, Lagertha y Harald zarpan hacia París, pero el viento los desvía de su rumbo. Mientras tanto, Ecbert envía a Aethelwulf y a Alfred en una misión sagrada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kfph5pj57ci2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xvj1l92x2r4y"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/wolawtbmj3eg"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Beneficios y pérdidas",
+            "sinopsis": "Ragnar anuncia un doble ataque contra Rollo. Mientras tanto, Harbard y Aslaug comparten un momento íntimo, y Floki tiene una visión inquietante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mizufgagwfg5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/won1dy43owiq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9qyggew8whxu"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Porte",
+            "sinopsis": "Se ponen en tela de juicio las habilidades de Ragnar, Gisla revela noticias importantes, Yidu toma una fatídica decisión, y la victoria de Rollo recibe una recompensa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tcdkaumpb8y0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ts0fzrvw94ai"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ldiw2peh5csx"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Muerte alrededor",
+            "sinopsis": "Harald y Halfdan trazan un camino de destrucción, Lagertha sufre un revés personal, Alfred recibe una honorífica bienvenida en Roma, y Erlendur hace un reclamo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tgazc1s16k9j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/uxasbx5birml"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7bkir6kdgffu"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "El último barco",
+            "sinopsis": "Mientras Charles toma una funesta decisión, una dura batalla entre Rollo y Ragnar podría cambiar el rumbo de la historia.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7k5hmsirfpog"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4yfbh00ykhgk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/70c4gnknonxk"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "El forastero",
+            "sinopsis": "Ragnar regresa a Kattegat y les propone a sus hijos navegar hacia Inglaterra. Un festín familiar termina mal. Una esclava pone en ridículo a Ivar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r1m3fi9ltjbl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4fthemq2cpmo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ds45jxkwu415"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "La visión",
+            "sinopsis": "Mientras Bjorn se prepara para navegar el Mediterráneo, Ragnar no encuentra suficientes tripulantes para sus naves. Aslaug tiene una tremenda visión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4drxkqfu6413"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mfa6daaieqw5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/b3ocxin2oy9y"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Dos viajes",
+            "sinopsis": "Bjorn no tiene otra opción que negociar con un viejo enemigo para cumplir su sueño. Mientras tanto, Ragnar tiene que cambiar de planes cuando su ejército queda diezmado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wh4e2buy5hyj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2eofau62lurx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/f36j5u0qjtlh"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "En la hora incierta antes del amanecer",
+            "sinopsis": "Luego de un funeral vikingo, Lagertha finalmente alcanza su objetivo. Capturan a Ragnar, pero este logra negociar con el rey Ecbert tras encontrar a un nuevo parentezco.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/333gh5l01dsk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/az3j7qtk5nab"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/djhz5kpu8sqq"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Todos Sus ángeles",
+            "sinopsis": "Ivar regresa a casa y crecen los temores de Lagertha y Astrid por el futuro. Mientras Ragnar espera su destino, un hombre disfrazado de clérigo le ofrece consuelo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cnngp4tvxrin"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/pla936ra0u8e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hf26uvsoqukw"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Cruces",
+            "sinopsis": "Ivar desafía a Lagertha, y Ecbert y Aethelwulf no se ponen de acuerdo en cómo tratar con la amenaza que él representa. Bjorn y sus hombres saquean una ciudad musulmana.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pjqaw44rcviq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/q15hsykzj3n0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bchigszbwbko"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "Un gran ejército",
+            "sinopsis": "Bjorn regresa a Kattegat y se suma al plan de sus hermanos de juntar un ejército para vengar la muerte de Ragnar, pero le advierte a Ivar de no atacar a Lagertha.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zoingga96l8b"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/iwty72016nmh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0rvs5zeilnsf"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Venganza",
+            "sinopsis": "Guerreros de todas las naciones forman un gran ejército. La noche de bodas de Ubbe y Margrethe concluye en una alianza. El rey Aelle se prepara para una brutal batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mmf2slpz0poa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r1zke2p3awzg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mx2bow640mbd"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "En la víspera",
+            "sinopsis": "El rey Ecbert y el príncipe Aethelwulf se preparan para el avance del ejército vikingo, mientras Lagertha encabeza una feroz batalla contra los invasores de Kattegat.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g7uf013p9cvf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1nhajdy3522m"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/olrsu0wybyf5"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "La hora de la verdad",
+            "sinopsis": "Ecbert recibe al ejército vikingo luego de poner en marcha su propia venganza. Luego de la victoria, la celebración es más amarga que dulce para los hijos de Ragnar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zxb7952qs1ro"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/sry3eq7ef4el"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xykavvpianha"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "El rey pescador",
+            "sinopsis": "Ivar trata de ganarse a Ubbe y Hvitserk con una estrategia arriesgada para el gran ejército. Crece un poder religioso entre los sajones. Floki toma otro rumbo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5eq5k8cr1f0w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s98vmuwxcvlq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/o6owxgs6swjm"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Los difuntos",
+            "sinopsis": "Lagertha no está a gusto con el regreso del rey Harald a Kattegat. Se forman alianzas para enfrentar a los nórdicos que tomaron York. Floki navega aguas turbulentas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tigqqvgoli2h"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7h8gccqdq16c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vn3va76sdzbg"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Patria",
+            "sinopsis": "El obispo Heahmund y Aethelwulf ponen en marcha el plan de batalla, que divide a los hijos de Ragnar. Harald presenta a Astrid ante su pueblo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cxtt7rinwyi6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yig3vwqsimk4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nznxe4lf52z2"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "El plan",
+            "sinopsis": "Lagertha le hace una oferta a Ubbe, mientras Astrid considera la que le hizo Harald. Heahmund arma un nuevo plan de ataque, y Bjorn expande sus horizontes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4ne2r4h5cdw1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6wtf1gg3ru0x"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hrqavmak3kyk"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "El prisionero",
+            "sinopsis": "Mientras trama su próxima jugada, Ivar se interesa por Heahmund. Floki vuelve a Kattegat. Bjorn descubre que no todo es lo que parece en África.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1useqv8qa987"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jlbksfi236rg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/aunrovolf9ux"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "El mensaje",
+            "sinopsis": "Acompañado por Heahmund, Ivar le hace una propuesta a Harald. Lagertha pierde el control sobre su pueblo, y un aliado paga un precio muy alto por la lealtad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fv36yasx297n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vyatjtzjpx7i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/g1cpniu1w2os"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Luna llena",
+            "sinopsis": "Bjorn hace cambios tras su llegada a Kattegat, donde Lagertha se prepara para la guerra. Astrid da una gran noticia, y la gente de Floki comienza a sospechar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r8zuhr7ab8g7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b5h9h9kydki4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4eugju0o2440"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El chiste",
+            "sinopsis": "El enfrentamiento entre hermanos en la batalla de Kattegat salda viejas cuentas. Floki y Alfred imaginan otros mundos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/u2612llg83es"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b9ezcbkv9p9e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/77els3xxrfi9"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Una historia sencilla",
+            "sinopsis": "Después de la batalla, surgen nuevas relaciones y se juran lealtades. Por otro lado, Floki enfrenta viejos fantasmas, y la vida de Alfred da un giro.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qixveb9321aj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gthi54or109n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/slo9t2relpxr"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Momentos visionarios",
+            "sinopsis": "Se derrama sangre y se rompen lazos en la guerra de Kattegat, con Lagertha, Harald y Ubbe enfrentados a sus seres queridos en el campo de batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0gsc56p9zfu1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5jf4pbm9tapb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xljoar2yy6t6"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "La revelación",
+            "sinopsis": "Tras la intensa batalla por Kattegat, Ivar queda obsesionado con la venganza. Bjorn recibe noticias inesperadas, y Lagertha evalúa sus opciones.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1mq2qj73mspq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6dv7rx8anqn1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ptqkoang6mp7"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "El asesinato más vil",
+            "sinopsis": "El vínculo entre Heahmund y Lagertha está rodeado de intrigas políticas y románticas, que afectan a la consorte de Ivar y el trato de Alfred hacia la posible reina.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/j02xmreh21a7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7yw7qp8m82pz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rfjh6ai8v7ei"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Un nuevo dios",
+            "sinopsis": "Se sienten las repercusiones del avance de Heahmund contra Lord Cuthred. En Kattegat, los delirios de grandeza de Ivar dan un vuelco peligroso.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mt9wd5ih0jet"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xqpueo9eowii"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/r4e5kj3km4uk"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "El momento perdido",
+            "sinopsis": "El dramático sacrificio de Ivar despierta sospechas. Surgen conspiraciones contra Alfred, y las fuerzas de Harald se acercan. Tras una tragedia, Floki tiene una epifanía.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ohjyvhdx8hxw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r5bi8buxf75c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qisqp6qlbrrh"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Infierno",
+            "sinopsis": "Acechado por los vikingos, Alfred se prepara para luchar por Wessex. Una visión perturbadora convence a Heahmund de dejar de lado sus deseos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0z1a2p924jre"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/16i383nvcm4p"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ndkz8xkn0nlw"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "El Buda",
+            "sinopsis": "Tras la batalla, los hijos de Ragnar cumplen uno de sus mayores sueños. Bjorn encuentra un oponente de su talla, y Hvitserk descubre una nueva ruta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mmci45n9sgby"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fa943kcb5uk4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/scjotjcczjbp"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "Cosas terribles",
+            "sinopsis": "Mientras una nueva amenaza se acerca a Wessex, Bjorn conspira con Harald, Ivar le hace una oferta irresistible a Hvitserk, y el destino de Floki cambia súbitamente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7x0e3ydsl1zy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/olkzwa56ho1b"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/m4yi64qfngqn"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Balder",
+            "sinopsis": "Ivar se muestra cada vez más impiadoso, Ubbe emprende un plan osado, Judith descubre algo sorprendente, y Hvitserk se esfuerza por persuadir a un aliado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wg6cry520p63"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4yd758djzec0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/a7czb82rygig"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "Lo que pasa en la cueva",
+            "sinopsis": "El destino avanza en sus planes con los hijos de Ragnar: Ivar lidia con Balder y Ubbe lucha hasta la muerte. Floki encuentra algo inimaginable, y Bjorn regresa a casa.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w0kupvotl2n9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/w66q1q5ozekp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fa8qvtv8lzfo"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "Ragnarök",
+            "sinopsis": "La pelea final por Kattegat trae un baño de sangre, traiciones y giros inesperados cuando Bjorn decide liderar el ataque para sacar a Ivar del trono.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/e8zixpc6qber"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zx7hs8fc8un7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/j4w3cvu5iqt3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Nuevos Comienzos",
+            "sinopsis": "En su escape por la Ruta de la Seda, los Rus capturan a Ivar. Bjorn asume el trono de Kattegat, pero Lagertha anuncia que se retira al campo",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mdc0ly6dohmq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2x4l3r453ojn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/f0mnsamkvasx"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El Profeta",
+            "sinopsis": "El rey Bjorn recibe el pedido de ayuda militar que le hace el rey Harald. Ivar queda asombrado por la violenta toma de poder del príncipe Oleg de Kiev",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v5fyqyzv380s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fwhgl9o2e8n2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yilwnn04prff"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Fantasmas, Dioses y Perros que corren",
+            "sinopsis": "La nueva comunidad de Lagertha es atacada. El rey Olaf frustra el intento de Bjorn de liberar a Harald. El príncipe Oleg consolida su dominio",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0plkmed4b70l"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7es8cl62o3pq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/v0e79mqojmtl"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Todos los Prisioneros",
+            "sinopsis": "El rey Olaf le hace a Bjorn una oferta que no puede rechazar. Las fuerzas de Lagertha rechazan un asalto violento, pero por un alto precio. Ivar urde un plan contra Oleg.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nlzhhmozsf51"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/d4v6ufif11c4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/g8nybjbbqepv"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Momento Clave",
+            "sinopsis": "Gunnhild llega para reforzar el poblado de Lagertha. Los jarls y reyes de Noruega se preparan para elegir a un nuevo líder nacional. Ivar ve un fantasma de su pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1rn975bbcl8z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t3iw9d0m2dp8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hippcczho3tn"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "La Muerte y La Serpiente",
+            "sinopsis": "La elección del rey de Noruega tiene un resultado inesperado, así como consecuencias para Bjorn. Lagertha y su pueblo se enfrentan a los bandidos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n7e1z9larjkx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/maraobnv39fp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/q7n3wi0dnjxg"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "La Doncella de Hielo",
+            "sinopsis": "El flamante rey Harald encarcela a Olaf por oponerse a su elección. Bjorn siente que se avecina una tragedia en Kattegat. Ivar recibe buenas noticias en Kiev.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/sf485kbg0rkt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/649bex6kpk26"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/djgrawlicgjm"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Valhalla Puede Esperar",
+            "sinopsis": "Bjorn regresa para lamentar su pérdida y buscar venganza. Ubbe y Torvi se marchan. Oleg planea su invasión. El rey Harald escucha noticias de extraños saqueadores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/phnswx898yhn"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lgn5am47u6jt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6tuxhpr01kpg"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Resurrección",
+            "sinopsis": "Ubbe y Torvi encuentran un misterioso viajero en Islandia y reciben a un nuevo bebé. Bjorn y Harald, muy a su pesar, se vuelven aliados contra la invasión de los Rus.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bl6b4ozl2zxd"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/121iatwt7g6a"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ukzokzl710ri"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Los mejores planes",
+            "sinopsis": "Ivar gana un posible aliado en su intriga contra Oleg. La frágil alianza de Harald y Bjorn se prepara para la invasión de los Rus en Escandinavia.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zbuoskc2w0l0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ks19xmxhn7do"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5dpevqepsc2y"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Rey de reyes",
+            "sinopsis": "Herido de gravedad, Bjorn intenta liderar a su pueblo una vez más, mientras los Rus preparan una enorme invasión. Ubbe descubre la verdad sobre Kjetill.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/20caw2u8w3yz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kejez0ie7pm1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5mvubu5faaub"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Todos cambian",
+            "sinopsis": "Ubbe convence a los habitantes de Islandia de realizar un viaje de exploración. La derrota de los Rus crea vacíos de poder en Kattegat y Kiev.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/omx6ly8nlmzi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4s387mrara1s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/x3qkwhlvccxz"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "La señal",
+            "sinopsis": "La elección del nuevo soberano de Kattegat se lleva a cabo, pero una visita sorpresa interrumpe el procedimiento. Ivar pone en acción su plan de derrocar a Oleg.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/czwgi8u98huu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lmlfkz6y21ap"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6vxnm9a3iiro"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Almas perdidas",
+            "sinopsis": "Mientras sus enemigos planean tomar el poder, Harald se prepara para su coronación y elige a una reina. El grupo de Ubbe llega a la costa, pero no a la que buscaban.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cxz7i39qmvrz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zz0yo2dwht55"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rc0zcseze47p"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Todos en altamar",
+            "sinopsis": "Las facciones en Groenlandia derraman sangre y ahuyentan al grupo de Ubbe. Las tropas de Ivar y Dir conquistan Kiev para el príncipe Igor. Gunnhild toma una decisión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8cc6jb99w609"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xetk2jb3taye"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6yaplsixrjfr"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "La gota que colmó el vaso",
+            "sinopsis": "Ubbe y sus seguidores languidecen en mar abierto. Ivar y Hvitserk reciben una helada acogida en Kattegat, hasta que el inquieto Ivar tiene una revelación.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1v36wj2zjd3m"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t60zupcwbo6s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rufaw7dvrppk"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "La balsa de la Medusa",
+            "sinopsis": "Ivar y Hvitserk dirigen al ejército del rey Harald hacia Inglaterra, donde el rey Alfred de Wessex abandona la villa real y marcha para reunirse con los hijos de Ragnar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3p70720b5odv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lfp1f7vv0vuv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kmvexurtqkvc"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Solo es magia",
+            "sinopsis": "El rey Alfred se enferma mientras el ejército vikingo toma la delantera. Ingrid maldice a Erik. Ubbe y su gente encuentran un nuevo mundo, pero no están solos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r5javggtmk0y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zct4hvgeb9ts"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/stgporvgye2t"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "Alguien te da...",
+            "sinopsis": "Ubbe y los colonos inician relaciones con los indígenas de la nueva tierra. La estrategia de Ivar atrae a las fuerzas de Alfred a una batalla devastadora.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hl2ub3fehm49"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/csktq4b8r3po"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tz8chheylht1"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "El último acto",
+            "sinopsis": "Ubbe se reúne con un viejo amigo, pero debe juzgar a un asesino. Las tropas de Alfred e Ivar chocan cuando sus líderes buscan fortaleza en sus propios dioses.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d0dsfz8ysuh4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4qvt0d0gl91z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bkytaiibg0nk"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1424,
     "titulo": "Orange Is the New Black",
     "sinopsis": "Un crimen del pasado obliga a una neoyorquina privilegiada a cumplir su condena en una cárcel de mujeres. Una vez tras las rejas, no tarda en hacer amigas... y enemigas.",
