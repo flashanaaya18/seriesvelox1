@@ -1,5 +1,162 @@
 [
   {
+    "id": 287620,
+    "titulo": "Stuart no logra salvar el Universo",
+    "sinopsis": "A Stuart Bloom se le encomienda la tarea de restaurar la realidad después de provocar un Armagedón multiverso.",
+    "poster": "https://image.tmdb.org/t/p/w500/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Stuart no logra salvar el Universo 1x1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/kpko36zurm9r"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/aby7cwldlr6s"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/mm8wadspnghl"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/kistb61uvnkz"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Stuart no logra salvar el Universo 1x2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/4v8w0vpt4dy8"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/5artacubbfwm"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/7qyffosefas6"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/0rfiihya55wd"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Stuart no logra salvar el Universo 1x3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/3rwjlfkqmfla"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/x1qjku4gy83t"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/usxvfdjdbrmm"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/hc683sdpriz3"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Stuart no logra salvar el Universo 1x4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/z52zuz54t0m4"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/l9zfh7becwfq"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/eughn5obmj8p"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/1sk37mgo4wmf"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Stuart no logra salvar el Universo 1x5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/0ee5gjk6g66c"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/wqaologj5pfp"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/04ck8vqqqifo"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/o72hqu3rpnxl"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Stuart no logra salvar el Universo 1x6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Streamwish",
+                "url": "https://streamwish.to/e/tmrzf0igoapz"
+              },
+              {
+                "nombre": "Vidhide",
+                "url": "https://vidhidepro.com/v/90br330hboml"
+              },
+              {
+                "nombre": "Voesx",
+                "url": "https://voe.sx/e/jioue4fhbyqj"
+              },
+              {
+                "nombre": "Doodstream",
+                "url": "https://doodstream.com/e/22fbjnq83byc"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 325755,
     "titulo": "El club gastronómico",
     "sinopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
