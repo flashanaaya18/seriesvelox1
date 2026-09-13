@@ -1,5 +1,220 @@
 [
   {
+    "id": 19885,
+    "titulo": "Sherlock",
+    "sinopsis": "Moderna actualización del mito de Sherlock Holmes, ambientado en el Londres del siglo XXI. Sus insuperables habilidades de deducción y su arrogante distanciamiento emocional le convierten en el perfecto detective junto a su inseparable compañero John Watson.",
+    "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+    "anio": "2010",
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Misterio"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Estudio en rosa",
+            "sinopsis": "Es Londres 2010 y el Dr. Watson y Sherlock Holmes se conocen por primera vez. Mientras que una imposible multitud de suicidios ha dejado desconcertada a la Scotland Yard. Solo un hombre puede ayudarles.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El banquero ciego",
+            "sinopsis": "Un misterioso código esta empezando a aparecer en los muros de Londres. La primera persona en ver el código muere a las pocas horas de leerlo. Sherlock se mete en el mundo de los códigos y símbolos, consultando al mejor artista callejero de Londres. Pronto se da cuenta que la ciudad esta en mandos de unos contrabandistas internacionales, una sociedad secreta llamada el Loto Negro.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "El gran juego",
+            "sinopsis": "Una extraña pista en un cuarto vació, un automovil lleno de sangre, un invaluable Antiguo Maestro, un bombardero trastornado. El reloj corre, el telon se levanta en una batalla de agallas entre Sherlock, John y un misterioso hombre que parece tener todas las respuestas.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Escándalo en Belgravia",
+            "sinopsis": "Un caso de chantaje amenaza a las altas esferas de la monarquía misma. pero pronto Sherlock y John descubren que hay mas que eso. De pronto se encuentras luchando contra el terrorismo internacional, agentes rebeldes de la CIA y una conspiración ultra secreta en la que el gobierno Británico esta inmiscuida. Pero este caso se muestra mas complicado aun al encontrarse Sherlock con un antagonista tan frío y brillante como el: Irene Adler",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Los sabuesos de Baskerville",
+            "sinopsis": "Algo terrible le ha pasado a Henry Knight. Sherlock y John investigan la verdad acerca de la monstruosa criatura que aparentemente asesino al padre de su cliente. ¿Un sabueso infernal? Lo que parece solo fantasia en la calle Baker es un prospecto de una base ultra secreta del ejercito.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "La caída de Reichenbach",
+            "sinopsis": "James Moriarty posee la mas grande mente criminal que le mundo haya visto. Sherlock y John sabían que el no dudaría mucho tiempo escondido, pero nunca adivinarían el tamaño y audacia del crimen que pondría a Moriarty de regreso a los encabezados. Sherlock debe pelear por su reputación, su cordura y su vida. ¿Pero en realidad es todo lo que el dice ser?",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "El coche fúnebre vacío",
+            "sinopsis": "Dos años después de los devastadores eventos de La Caída de Reichenbach, el Dr. John Watson ya continuado con su vida. Nuevos horizontes, romance y un confortante futuro. Pero con Londres bajo la amenaza de un enorme atentado terrorista, Sherlock Holmes esta a punto de levantarse de la tumba con todo el drama que emana naturalmente de el. Es lo que mas deseaba su mejor amigo, pero por el momento John Watson podría estar en la situación de \"Ten cuidado con lo que deseas\". Si Sherlock piensa que todo seguirá igual que antes, se llevara una gran sorpresa.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El Signo de Los Tres",
+            "sinopsis": "Sherlock encara uno de sus mas grandes retos. Dar el discurso como padrino en la boda de John. Pero no todo es lo que parece. Un peligro mortal acecha en la recepción, y alguien no lograría llegar hasta el primer baile de los novios. Sherlock deberá agradecer a las damas de honor, resolver el caso y detener al asesino.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Su último juramento",
+            "sinopsis": "Un caso de unas cartas robadas lleva a Sherlock Holmes a un conflicto con Charles Augustus Magnussen, el Napoleon de la extorsión y el unico hombre al que realmente odio. Pero ¿como atacas a un enemigo que sabe las debilidades personales de cada hombre importante del mundo occidental?",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Las seis Thatchers",
+            "sinopsis": "Un misterioso caso en particular abruma a la Scotland Yard, pero Sherlock esta mas interesado en un aparente detalle trivial. ¿Porque alguien esta destruyendo las imágenes del anterior Primer Ministro Margaret Tatcher? ¿Es un lunático suelto? o hay un propósito mas oscuro en ello.",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El detective mentiroso",
+            "sinopsis": "Sherlock encara quizas el mas escalofriante enemigo de toda su carrera. El poderoso y aparentemente inexpugnable Culverton Smith, un hombre con un muy oscuro secreto",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "El problema final",
+            "sinopsis": "Antiguos secretos finalmente alcanzan al duo de la calle Baker. Alguien ha hecho una jugada muy larga y solos e indefensos Sherlock y John Watson deben encarar su mas grande desafió. ¿Se acabara el juego?",
+            "servidores": [
+              {
+                "nombre": "Doodstream",
+                "url": "https://embed69.org/static/lockers/dood.png"
+              },
+              {
+                "nombre": "Morencius",
+                "url": "https://embed69.org/static/lockers/vidhide.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44217,
     "titulo": "Vikings",
     "sinopsis": "Narra el ascenso del legendario guerrero Ragnar Lothbrok. La trama sigue su evolución desde un humilde granjero escandinavo hasta convertirse en un poderoso rey vikingo tras desafiar a los líderes locales y explorar exitosamente tierras desconocidas hacia el oeste.",
