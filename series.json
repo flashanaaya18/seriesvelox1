@@ -1,5 +1,175 @@
 [
   {
+    "id": 300507,
+    "titulo": "Crew Girl",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/7QMTxQf6GXYlMI64yNd7lKXiIux.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6xrhfqteatuh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bllkf9m6vwvt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hbhosgqs94hg"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/47rjp4ptqj5l"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kn2dckpeppvq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ptlr0yow1qiv"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/adion272vohf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vhx13q2rzlm9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cg8wwsj5obkz"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zsnjniooo0pw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/oydl6sehzapp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rvn10rdhluzc"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ojv8vuudgym9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/89eh6iffmrly"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kronuirkzno0"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4i7we0zcvc1q"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/16gtmse7pz4p"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hy5k6qmut5i2"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/spfzudaffbfd"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/40onue1p8yja"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8n2gtz8s9kvc"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Episodio 8",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2ryjswnbi70q"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c47trp4ptx8n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iaeaqteydirw"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 11183,
     "titulo": "Poltergeist: El legado",
     "sinopsis": "Una sociedada secreta llamada 'El Legado' investiga casos paranormales.",
