@@ -1,5 +1,156 @@
 [
   {
+    "id": 290234,
+    "titulo": "Mal de Amores",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/rGeWjJxZpFCftDDroRIa1BvYfqX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/itb733ek1egq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/uizvquic1hvw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cogwpimusyid"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nj9mtt2vxdwu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/f07soo675xpe"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/s6adkfjmozqp"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/355i7wbv8jqh"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ml7ty59bgquc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cfhdpcokkqlm"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v5m1rf32jec3"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c3kmevy1qq9h"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cupf8gv4ejqx"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/esi4af2lypvv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/nrgwv3u49l6d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7m6o5prq2vam"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ftg4pwm58u0o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/l7key7h615m0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xuidobgltmxt"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/l5g603xhyt55"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lgh9g49wp0up"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bl7bez0qnhe8"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 299365,
     "titulo": "Un nuevo comienzo",
     "sinopsis": "Kang Yong Ho, presidente del Grupo Choi Sung, está a punto de jubilarse triunfalmente, hasta que un extraño accidente hace que su cuerpo se intercambie con el de un empleado novato. De las salas de juntas a las hojas de cálculo de Excel, ahora debe sobrevivir a la vida de oficina desde lo más bajo, descubriendo el humor y la humildad al empezar de cero.",
