@@ -1,5 +1,62 @@
 [
   {
+    "id": 301626,
+    "titulo": "Historia de dos ciudades",
+    "sinopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
+    "poster": "https://image.tmdb.org/t/p/w500/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Misterio"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v20d90tp1uwo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/cffb05aid1md"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/c1o7wfqung3z"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/le92phbcm61b"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fmq6mp0mqozd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dxovroh1hz5h"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 314478,
     "titulo": "Dang!",
     "sinopsis": "",
