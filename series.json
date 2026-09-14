@@ -1,5 +1,176 @@
 [
   {
+    "id": 281041,
+    "titulo": "La nena",
+    "sinopsis": "Meses después de los sucesos de La Red Púrpura, la cacería no ha terminado. Tras la muerte de Lucas, Elena Blanco ha desaparecido. Solo Mariajo conoce su paradero, manteniéndolo en secreto incluso para el resto del equipo. La lucha contra La Red le arrebató demasiado y en un intento desesperado por recuperar el control de su vida dejó atrás la BAC.",
+    "poster": "https://image.tmdb.org/t/p/w500/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cUPmAiNaqcJqqPaALBq5fOhSp7i.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Misterio"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1kj18iqz5uf1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/35lwov5iysar"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cvbejj7kjoi8"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fpq6dcnmqona"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o8fugrvl02w2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0ix3tk2jkk5j"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9pxqjnjk6y30"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ypicees23zrn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zsl6d1mxnaio"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bam5uiiijnz1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3p1x76xholpb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yavke0hrnfvy"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0p3lfzln0dtu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yee43qyfrruh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nhocco9jigu1"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2ma5qobe0kiv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/otm930yygfog"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fn6r7fvi23ts"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5pche76r2kgp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7bhd0wjy74so"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tsdbxpzqu1da"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Episodio 8",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cx4fuvvdh7ev"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1rm4h3mv6afw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qa1kjetqc9wv"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 60625,
     "titulo": "Rick y Morty",
     "sinopsis": "Rick Sánchez es un genio científico alcohólico que se ha mudado con la familia de su hija Beth. Él pasa el tiempo con su nieto adolescente Morty (y en ocasiones con otros miembros de la familia) en aventuras peligrosas y surrealistas a través del espacio y universos paralelos.",
