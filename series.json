@@ -1,5 +1,124 @@
 [
   {
+    "id": 320096,
+    "titulo": "Krypto Saves the Day!",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/peMK4Kze9OxRGOdIOi0wn4lKYkr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5XEBvnGpOZJgdzcjzzrH7QA0hl2.jpg",
+    "anio": "2025",
+    "generos": [
+      "Animación",
+      "Kids"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rgu2kyowtxcg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vsy32snd56sk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/skxdixkdf6jw"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/l0q8293yuxtj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r6t6chv5t2xy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iy80btmdbful"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/szus46gyd5gg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gb1jhh1w0zo0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ytuxkdwugr2s"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qx04137094sy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wwawv46drjy4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/45zion8bi5hs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mgvrltb3zi4m"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ij9wt58t8fya"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/x4vk2juuxtk0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 300507,
     "titulo": "Crew Girl",
     "sinopsis": "",
