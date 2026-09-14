@@ -1,5 +1,176 @@
 [
   {
+    "id": 204087,
+    "titulo": "Pato y Ganso",
+    "sinopsis": "Los amigos emplumados Pato y Ganso no podrían ser más diferentes, pero en este show de preescolar, aprenderán cómo sacar lo mejor uno del otro.",
+    "poster": "https://image.tmdb.org/t/p/w500/5qC64C5jnwXEj8sfiTqYbbqi5hy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6csy55zATyIt38JehrR5AKJG8LQ.jpg",
+    "anio": "2022",
+    "generos": [
+      "Animación",
+      "Kids"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Encuentran algo redondo / Van al campo florido",
+            "sinopsis": "Un juego de atrapadas los lleva a un interesante descubrimiento. Pato y Ganso se encuentran con Jilguero y descubren lo que la hace ser única.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9zbyr2s1o944"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/buv6jpmfujup"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/djxzaotq8vgx"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Van a la playa / El árbol de medición",
+            "sinopsis": "Pato convence a Ganso de ir a la playa. El dúo descubre cuánto han crecido y Pato decepcionado intenta crecer más rápido.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rdu0z212jcpo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7scurbcr5r2d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/45c2tvvab607"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Vuelan una cometa / Las ciruelas púrpuras",
+            "sinopsis": "Pato y Ganso aprenden la importancia de ser persistente mientras tratan de construir y volar una cometa. Después de recolectar ciruelas, se enfrentan a un dilema para entregarlas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qtktnesg4fgt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dxtj2jkm2jox"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kcdev7a70c9o"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "La roca brillante / Los mejores pintores",
+            "sinopsis": "En un viaje para encontrar la roca más brillante, Pato y Ganso descubren toda la diversión que oculta el bosque. Un afortunado accidente inspira un regalo de cumpleaños especial para Jilguero.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1nk38nbjw91g"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qjhqlncx0cs3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tykkiaaxge1e"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "La canción pegajosa / Hacen una casita",
+            "sinopsis": "Pato y Ganso no dejan de pensar en una canción pegajosa. Cuando un juguete se pierde, aprenden que tienen diferentes maneras de organizar las cosas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/deopd0e7myvk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/43o7fvnuxa4e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eeghf4dlrkpk"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Miran el amanecer / El truco de magia",
+            "sinopsis": "Decididos a ver su primer amanecer, los amigos intentan mantenerse despiertos toda la noche. El talento de Azulejo para la magia motiva a Pato y Ganso.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/llwhk8t036dn"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/y7dqeyjeewxe"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lxwmwrsnvpd1"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "El día de Halloween / La carrera a tres patas",
+            "sinopsis": "Una búsqueda de dulces se vuelve aterradora cuando Pato y Ganso llaman la atención de un “monstruo del pantano” local. Una carrera amistosa se encuentra con un obstáculo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hkgyjyyci8so"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m27vy6uemjqq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xa5racave13q"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El día nevado / El botón de flor",
+            "sinopsis": "Pato y Ganso planean divertirse en un paraíso nevado. Los amigos se esfuerzan por ayudar a que una flor solitaria florezca en la pradera.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jo8n2s9wsibc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/miim1ehvmmbg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dspmnnezubrd"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 313721,
     "titulo": "Dear Killer Nannies: Criado por sicarios",
     "sinopsis": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
