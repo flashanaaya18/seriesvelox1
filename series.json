@@ -4743,710 +4743,590 @@
         "episodios": [
           {
             "numero": 1,
-            "titulo": "En Coma 1x1",
+            "titulo": "Episodio 1",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/hd7knufmcsic"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3kyhgo7u3slb"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/qf4xuacy2x5v"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1gwlmo15corr"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/yhntxp6i0lbf"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/5wlj5v9z01ds"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pbbqontdz1ha"
               }
             ]
           },
           {
             "numero": 2,
-            "titulo": "En Coma 1x2",
+            "titulo": "Episodio 2",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/w1fczrguf6w6"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pl03l6967wc6"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/z89omnxao71x"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9af2yus8vx1y"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/nx1fav1sf7lq"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/fr0q5rhfs3g5"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/n1dpnixfyfng"
               }
             ]
           },
           {
             "numero": 3,
-            "titulo": "En Coma 1x3",
+            "titulo": "Episodio 3",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/c2nayg3pt1oq"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/td555v9homyg"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/1u5p4lwjn1x6"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/01868r0dku78"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/s76ddse30ejd"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/odsow4fhuf8i"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/abgtg7pzxtvh"
               }
             ]
           },
           {
             "numero": 4,
-            "titulo": "En Coma 1x4",
+            "titulo": "Episodio 4",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/he5tqj299mhd"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5hg5r8nft288"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/ew6jrf7oxl97"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/tuuv5qsc0v28"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/aqqeo7ngw4so"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/qrs0ygqwzr00"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/le6zgfffzyy6"
               }
             ]
           },
           {
             "numero": 5,
-            "titulo": "En Coma 1x5",
+            "titulo": "Episodio 5",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/v2qlpbnk3h5m"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rqbsihfkph92"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/g17pstu2am1v"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/udhzffo7j4ky"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/9audwvg035e6"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/1g0o0e6ev8w6"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8zgdx60lcepc"
               }
             ]
           },
           {
             "numero": 6,
-            "titulo": "En Coma 1x6",
+            "titulo": "Episodio 6",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/r14ultgeqqb3"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bfhfqelvepn0"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/7ngllzssjyfk"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/501s93wqy2ma"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/blkl30ndqdqu"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/pdf79vh85dg3"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/smqctuv08myj"
               }
             ]
           },
           {
             "numero": 7,
-            "titulo": "En Coma 1x7",
+            "titulo": "Episodio 7",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/yd53cbwcjf0j"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2ghft9a1wqe7"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/r8ntgb3y4dpy"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fvvjquo3x9vu"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/pwpe8z6ivrpb"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/owzdjap1fuoo"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cmlauzkeay2n"
               }
             ]
           },
           {
             "numero": 8,
-            "titulo": "En Coma 1x8",
+            "titulo": "Episodio 8",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/fm7za6zn3uct"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ie51cidv6a84"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/ozlzf60og18g"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zxf1zz5d3e34"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/b8lgwmcode32"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/yd81s0pct0de"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6jvrhggnsvni"
               }
             ]
           },
           {
             "numero": 9,
-            "titulo": "En Coma 1x9",
+            "titulo": "Episodio 9",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/95zw5kc041oa"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5oc5gnwl1es1"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/rsl4arj6c854"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b0xeszyg9y7p"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/w0a8v6lqxcrk"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/ficq7w2g1om1"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/t0tpci9vnnk7"
               }
             ]
           },
           {
             "numero": 10,
-            "titulo": "En Coma 1x10",
+            "titulo": "Episodio 10",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/vbjkt734h488"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g4rovfwg1ztu"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/26wdwsmh8yx2"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gb7au64bbpk6"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/3hbof2dc65zw"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/abkxnr47y3tv"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vuwlgt0b2cve"
               }
             ]
           },
           {
             "numero": 11,
-            "titulo": "En Coma 1x11",
+            "titulo": "Episodio 11",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/wt6j1uwjl6yd"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fmvyhg0qifo5"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/jpkes78r6ofh"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bt2dvmsgqqix"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/4xasrzocch7s"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/4dyfgrmqr94w"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e77meyz1pcqh"
               }
             ]
           },
           {
             "numero": 12,
-            "titulo": "En Coma 1x12",
+            "titulo": "Episodio 12",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/xek24rhpba8t"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9cpqioswzayf"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/6dbjhl0l8ce1"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/043at3j04zgb"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/tg1b0u52pwyt"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/c7xzp2rqq4jb"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xokqm7pykau3"
               }
             ]
           },
           {
             "numero": 13,
-            "titulo": "En Coma 1x13",
+            "titulo": "Episodio 13",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/uty8wvbqg1zf"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jihji2ux9xlo"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/8klo387ykwm0"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gd5mcwz723mu"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/4lgvijtx3io1"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/e4sw0pnm3t1e"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kysbmwr97lu5"
               }
             ]
           },
           {
             "numero": 14,
-            "titulo": "En Coma 1x14",
+            "titulo": "Episodio 14",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/s9u18opraf4a"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tpp7k51ocw5k"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/q7q09bo94nti"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ddw5ohjntcqh"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/rhd4zuywghnu"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/f98zm3sva0s2"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ioclszul6ccq"
               }
             ]
           },
           {
             "numero": 15,
-            "titulo": "En Coma 1x15",
+            "titulo": "Episodio 15",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/ora2uho9wevw"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nxe986ro3qgk"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/8btvcu26gc4n"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r0qvcmn7z03b"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/mupzkczbgmds"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/qg2s6fljiohf"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/sfgakumwqffn"
               }
             ]
           },
           {
             "numero": 16,
-            "titulo": "En Coma 1x16",
+            "titulo": "Episodio 16",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/j9in0tdmdhli"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/yhvfrdym3ql8"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/4a7zly2jnxw1"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ifvu5dpnfl7u"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/lxlxnmhyhsfx"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/u7pz3xf9wwbr"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mfeh1kscm207"
               }
             ]
           },
           {
             "numero": 17,
-            "titulo": "En Coma 1x17",
+            "titulo": "Episodio 17",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/1gypb5c0du5f"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4b8zbf9t3sdq"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/xuucczqc8y26"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s9yat3gz3oef"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/r7j1vjg8xs6k"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/09eubfo4rwhg"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xq11em8br7wu"
               }
             ]
           },
           {
             "numero": 18,
-            "titulo": "En Coma 1x18",
+            "titulo": "Episodio 18",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/ulw620hfhyaw"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0vc2judkm5ps"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/ky6mbieg3kuu"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wu2rcx72yy07"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/iyphpnmx1vsm"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/1h71815sxbdg"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/oiynsxdf8xuy"
               }
             ]
           },
           {
             "numero": 19,
-            "titulo": "En Coma 1x19",
+            "titulo": "Episodio 19",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/qz89elw5otdy"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xj5wuj15oodh"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/4q03x53ch8do"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9bfpg4m3c9n1"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/bnrcavnrp2su"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/hz03j9d3egun"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/plvsm9wjfzqw"
               }
             ]
           },
           {
             "numero": 20,
-            "titulo": "En Coma 1x20",
+            "titulo": "Episodio 20",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/09p79fymsct8"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ud16z2drmk0w"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/saqnyemckand"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2xl0a3hg40yo"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/bph9gpzhujce"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/j3w275t0rg7h"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/k3xgvnapsdtt"
               }
             ]
           },
           {
             "numero": 21,
-            "titulo": "En Coma 1x21",
+            "titulo": "Episodio 21",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/yc692epgyn6d"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ude7aajxfud7"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/7te36f32ui2k"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/t9bykjvwz1xl"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/chpkryuxndsi"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/tqiwg0sja5lx"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0om1dkcswl7h"
               }
             ]
           },
           {
             "numero": 22,
-            "titulo": "En Coma 1x22",
+            "titulo": "Episodio 22",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/1vdc13lk598g"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2jn91yldc18j"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/k8khsmzwby0j"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9igztnfubdrj"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/lc9hnxreqoqj"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/hn2onlvl0npw"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9uejbndfo9oe"
               }
             ]
           },
           {
             "numero": 23,
-            "titulo": "En Coma 1x23",
+            "titulo": "Episodio 23",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/bf4oa8felxzm"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g0p0pdkj0ms8"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/y9oaex31chdn"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qgkss790i7ah"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/hmh4dg8ue9lh"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/tmb5vc2fom1o"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1l4t5hgl7opf"
               }
             ]
           },
           {
             "numero": 24,
-            "titulo": "En Coma 1x24",
+            "titulo": "Episodio 24",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/chgygorxw0wl"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/a41s2shz1g8e"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/m2b7s2t0u88y"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c7vo327robhg"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/bvbzdh42poks"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/e0757x9adq07"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mlcvoteqyuyb"
               }
             ]
           },
           {
             "numero": 25,
-            "titulo": "En Coma 1x25",
+            "titulo": "Episodio 25",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/3hahke1vjke4"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d78z5pucti46"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/tfymg02p5j4z"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jzchhlt1pitd"
               },
               {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/3e95gpeid9jq"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gqgsaaoha0dj"
               }
             ]
           },
           {
             "numero": 26,
-            "titulo": "En Coma 1x26",
+            "titulo": "Episodio 26",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/8mnppye9xpeo"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mfjjxrbnbj43"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/15mjt7p13pnr"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vpkduzyfs7hm"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/bbxlyxde2twu"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/olghf1w253q9"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xbujwa7uaram"
               }
             ]
           },
           {
             "numero": 27,
-            "titulo": "En Coma 1x27",
+            "titulo": "Episodio 27",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/jyfdf6w7xf5p"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tnn0cub2jfxt"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/mfay4g130p1d"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/j7q8dxwxs25v"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/mxwknhwih55u"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/crq5ul8ehe9d"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yj2u6m4ifeen"
               }
             ]
           },
           {
             "numero": 28,
-            "titulo": "En Coma 1x28",
+            "titulo": "Episodio 28",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/gvozvnzciti2"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w60iwlga6ly0"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/pr2f51hxfxpf"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6984f5px5aca"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/ef5y572gxx4g"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/axj6ego4r7gl"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/y63maku4rcon"
               }
             ]
           },
           {
             "numero": 29,
-            "titulo": "En Coma 1x29",
+            "titulo": "Episodio 29",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/laspjniu4zfq"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hs4ove1kdk2h"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/q37yrqzhj49g"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/51akulnsng9o"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/qptlvbnn8nbe"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/dkllmiw8pmw7"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1g8w2kwd2wer"
               }
             ]
           },
           {
             "numero": 30,
-            "titulo": "En Coma 1x30",
+            "titulo": "Episodio 30",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/8f4q5m47ipi3"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1kf4ngaki10y"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/td54qtgnjxut"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/j5mmhmnlhyxq"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/wef7y6bxqmkb"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/9vbc1ye8hhao"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1aaplhfhjzlf"
               }
             ]
           },
           {
             "numero": 31,
-            "titulo": "En Coma 1x31",
+            "titulo": "Episodio 31",
             "sinopsis": "",
             "servidores": [
               {
-                "nombre": "Streamwish",
-                "url": "https://streamwish.to/e/zw0kcx3ko992"
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5tuq0cuapo6p"
               },
               {
-                "nombre": "Vidhide",
-                "url": "https://vidhidepro.com/v/pyhkvbhds548"
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/szwqin2b2zm3"
               },
               {
-                "nombre": "Voesx",
-                "url": "https://voe.sx/e/0mdyp4gycmqx"
-              },
-              {
-                "nombre": "Doodstream",
-                "url": "https://doodstream.com/e/zyozuqjfcbmk"
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qxv3n6nqb414"
               }
             ]
           }
