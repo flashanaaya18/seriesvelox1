@@ -1,5 +1,256 @@
 [
   {
+    "id": 2996,
+    "titulo": "La Oficina",
+    "sinopsis": "Aclamada teleserie británica (arrasó con los premios en las últimas dos ediciones de los premiso BAFTA británicos) que hace un corrosivo retrato de los integrantes de la oficina de ventas de una empresa. Haciéndose eco de la lluvia de reality shows que inundó recientemente las televisiones mundiales, \"The Office\" apela este formato y se mete dentro de una empresa de venta mayorista de papel para desarmar sin piedad el ambiente laboral que podría pertenecer al de cualquier empresa. La oficina en cuestión es un ambiente gris y poco estimulante donde convive un rejunte de personajes desangelados. No faltan el jefe, la secretaria, el empleado obsecuente y el irónico. En Estados Unidos la cadena NBC hizo una serie-remake (o versión) de mismo título y argumento, que también tuvo gran éxito, protagonizada por Steve Carell, popular por la película \"Virgen a los 40\" (The 40 Year-old Virgin\", 2005).",
+    "poster": "https://image.tmdb.org/t/p/w500/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
+    "anio": "2001",
+    "generos": [
+      "Comedia"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1etu24qpkgh7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hxckwx90iuki"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mumdkl1kzebz"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6w6wx1p4ib9e"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/f7v70o6nj57v"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ca9fatpdt5uh"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tua9s0mtmu6t"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o6494pih4844"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cs444yodpxgy"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1nrik220w6ph"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3lo5rpvwh4ev"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/f09ug2ge6zvl"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/tdo0ikbtc4l4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m1xquw3f1fjg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xgfm5a8n5kex"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bp0rurnvrnv7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/p9pb59n803th"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/i0llxnwzmyp4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/petces5njml8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hrmo64ojadon"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zrlpfoo90yl5"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8gpvukk2psss"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/20qt306ajl7y"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fcro7xhrrblq"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nxrd3bhyvbod"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ro559f8m0ubf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fjdl00skq63b"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0jp9mbe1l545"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vsyynd744ykw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cddhj05ezwyn"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wtejvdtef7td"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e1xmtdnsw3a3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fxcu9yvrfthu"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vy6xgtn9qpfw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1s9ewn7rqfyd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/a1ycwpwiol5s"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 330371,
     "titulo": "Earle Meets World",
     "sinopsis": "",
