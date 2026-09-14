@@ -1,5 +1,100 @@
 [
   {
+    "id": 331033,
+    "titulo": "Colisión",
+    "sinopsis": "Para cumplir la última voluntad de su padre, una joven enfrenta a su madre por el negocio familiar, en una lucha marcada por traición y secretos.",
+    "poster": "https://image.tmdb.org/t/p/w500/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Soap"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g7gx0t423lr1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wi2gq44hyeaf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qbefdf4k9ufi"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qqjyvdrbir1l"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jfntol1vvisa"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eh9ttq0idpt0"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3iucpjb76efl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c89fy7ppfsm3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jlwltaqeygta"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qylibea3dmmn"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ps8rdssolv4t"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/llciqlbszaaz"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 301626,
     "titulo": "Historia de dos ciudades",
     "sinopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
