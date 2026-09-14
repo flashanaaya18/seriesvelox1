@@ -1,5 +1,843 @@
 [
   {
+    "id": 66732,
+    "titulo": "Stranger Things",
+    "sinopsis": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
+    "poster": "https://image.tmdb.org/t/p/w500/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "anio": "2016",
+    "generos": [
+      "Acción & Aventura",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: La desaparición de Will Byers",
+            "sinopsis": "Will es testigo de algo horroroso cuando regresa a casa. Cerca de ahí, un laboratorio gubernamental esconde un terrible secreto en sus profundidades.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/25qkt8hlcc9n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/g02bkf4yn4am"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jxf4rxbqdbup"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dos: La loca de la calle Maple",
+            "sinopsis": "Lucas, Mike y Dustin intentan hablar con la niña que encontraron. Joyce, muy ansiosa, es interrogada por Hopper sobre una llamada telefónica.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/u5akd4acdvfa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6cpxiu9po16o"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rvsdmtmhy9ng"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo tres: Todo está bien",
+            "sinopsis": "Nancy, cada vez más preocupada, busca a Barb y descubre lo que Jonathan está tramando. Joyce está segura de que Will intenta comunicarse con ella.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ezyg2l4q52i2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hlj5fbm252fv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cajkdeuh1fcq"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo cuatro: El cuerpo",
+            "sinopsis": "Joyce se rehusa a aceptar que Will está muerto e intenta comunicarse con él, y los chicos ayudan a Once a cambiar de imagen. Nancy y Jonathan forman una alianza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4igg7dga460i"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mazqmccsndjt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bikcmsdacchw"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: La pulga y el acróbata",
+            "sinopsis": "Hopper entra al laboratorio. Nancy y Jonathan enfrentan a lo que se llevó a Will, y los chicos le preguntan al señor Clarke cómo viajar a otra dimensión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xnau5yqp7lm6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vs33399is6a3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gl1eqxyyrjhk"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: El monstruo",
+            "sinopsis": "Jonathan busca a Nancy en la oscuridad y Steve hace lo mismo. Hopper y Joyce descubren la verdad sobre los experimentos del laboratorio.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rizhpi8qntpp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1u6puf5wx81r"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bktucudzuhfp"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo siete: La bañera",
+            "sinopsis": "Once intenta llegar hasta Will, y Lucas advierte sobre algo terrible que se avecina. Nancy y Jonathan le muestran a la policía lo que captó con su cámara.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pew2ukg1rb2y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9eha9z4g2ywf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/sycwaesbpsy8"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo ocho: El otro lado",
+            "sinopsis": "El doctor Brenner detiene a Hopper y Joyce para un interrogatorio. Los chicos esperan con Once en el gimnasio, mientras que Nancy y Jonathan se preparan para luchar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/28qhx94j2sma"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rxsey7zjf64y"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fmtagfcploz0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: MADMAX",
+            "sinopsis": "A unos días de Halloween, los chicos descubren que alguien superó su puntaje en las maquinitas, y Hopper investiga un suceso inusual en un huerto de calabazas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1qqbixblqegf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xq15gvmovf2s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6kacy8biolp4"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dos: Dulce o truco, bicho raro",
+            "sinopsis": "Will ve algo terrible en la noche de Halloween. Por su lado, Mike no pierde la esperanza de que Once esté cerca, y Nancy no supera lo que le sucedió a Barb.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/efjipftyl2px"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hyh96fb1nmq8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lemamk9hyabl"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo tres: El renacuajo",
+            "sinopsis": "Dustin adopta una mascota muy peculiar. Once se siente cada vez más impaciente con su situación, y Bob conversa con Will para ayudarlo a enfrentar sus miedos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o2y0glrwp3qy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/iab6bk14mp95"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/l4opav6htwmt"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo cuatro: Will, el Sabio",
+            "sinopsis": "La salud de Will empeora y Joyce se percata de la severidad del problema. Hopper intenta llegar hasta la raíz de la verdad, y Once se topa con algo inesperado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w8m88m5dkwg2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bexnsfsbtben"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/m0hdm9k9sx7d"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: Dig Dug",
+            "sinopsis": "Nancy y Jonathan se acercan a un nuevo aliado que tiene su propia teoría sobre los eventos. Once indaga en su pasado, y Bob es clave en un momento crítico.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ckhxyl8y7hbo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zt7v7mwz47xe"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kaonvgmkbow4"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: El espía",
+            "sinopsis": "El vínculo entre Will y el monstruo sombra se intensifica mientras todos se preguntan cómo detenerlo. En otro lado, Dustin y Steve forman una alianza inesperada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nuwbx8msmfhd"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/sf0jcn0ll8y0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/h7yg5fx4ozb5"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo siete: La hermana perdida",
+            "sinopsis": "Tras una serie de visiones, Once se embarca en una búsqueda que termina lejos de Hawkins, donde conoce a un clan liderado por una chica con un triste pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9breeqmgqlro"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qxfbgua5msp6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nvhxzn6h2bnb"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo ocho: El azotamentes",
+            "sinopsis": "La situación en el Laboratorio Hawkins activa un protocolo de seguridad donde nadie puede salir del lugar, hasta que alguien toma una heroica decisión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/280h2sqmkr8a"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rol1r6xd7qgf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ckzjdipoqevt"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Capítulo nueve: El portal",
+            "sinopsis": "Once sabe que la solución está en sus manos y debe terminar lo que inició, mientras los demás se arriesgan con un plan para sofocar a la sombra que posee a Will.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/lpyskgch55vr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0pzrchp4kikv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/glncqj7zhf7a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: ¿Me copias, Suzie?",
+            "sinopsis": "Con el verano llegan nuevos trabajos y un amor incipiente. Pero todo cambia cuando la radio de Dustin capta una emisión en ruso y Will presiente que algo va mal.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dtqtqn87zz1w"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m78fyjg4uhlg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hs5zztuho0sm"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dos: Ratas de centro comercial",
+            "sinopsis": "Nancy y Jonathan van tras la noticia, Steve y Robin se apuntan a una misión secreta, Maxine y Once se van de compras, y Billy tiene visiones inquietantes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x9dud913j2f2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/txpambsjr183"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/66wkljlxsjoz"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo tres: El caso de la socorrista desaparecida",
+            "sinopsis": "Once y Maxine van en busca de Billy, Will declara un día sin chicas, Steve y Dustin emprenden una misión, y Joyce y Hopper vuelven al laboratorio de Hawkins.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/712p6e2jn2ri"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rixpeokdfoyt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/glgxdzg4nuk5"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo cuatro: La prueba de la sauna",
+            "sinopsis": "Un código rojo reúne a la pandilla, que se enfrenta a un peligro familiar y aterrador. Karen anima a Nancy a que siga investigando y Robin descubre un mapa muy útil.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ewqi9g0lfzbs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4ghudzp2kdvl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/da4dhjpyetx6"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: El ejército del Azotamentes",
+            "sinopsis": "Extrañas sorpresas acechan en una vieja casa y en las profundidades del centro comercial Starcourt. Y el Azotamentes cada vez es más fuerte.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/57kdn8f374sm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/s5s2veqwuihw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lbkijsfs6iqb"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: E pluribus unum",
+            "sinopsis": "El doctor Alexei revela lo que construyen los rusos y Once descubre dónde ha estado Billy. Dustin y Erica montan una operación de rescate muy audaz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2uvac18pubbx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/oyw2sppbgqqb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ua9l9bsj81hv"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo siete: La mordedura",
+            "sinopsis": "Con el tiempo a punto de agotarse y un asesino al acecho, el equipo de Hopper vuelve a toda prisa a Hawkins, donde Ce y la pandilla se preparan para la batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/lid57ellbrm9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/k1y9uu091p5e"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qvgan9pfn6sd"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo ocho: La batalla de Starcourt",
+            "sinopsis": "El terror se apodera de la zona de restaurantes cuando aparece el Azotamentes, pero, en el subsuelo, el futuro del mundo está en juego.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hohvuxpo4dlc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/00xh1ry4nouk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ieksgv0ynoru"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "El club Fuego Infernal",
+            "sinopsis": "Ce no puede defenderse de los abusones de su nuevo instituto. Joyce abre un paquete muy misterioso. En Hawkins, alguien inesperado arrasa en el club Fuego Infernal.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kvx6b12jbxoi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/eigw14nrpzxd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ajpja9asijls"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "La maldición de Vecna",
+            "sinopsis": "Mientras Mike pone rumbo a California, la aparición de un cadáver sacude Hawkins. Nancy sale a buscar pistas. Eddie, muy afectado, le cuenta a la pandilla lo que vio.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1ckhfb9us0k6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/brudseiju3je"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dgaaame29hur"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "El monstruo y la superheroína",
+            "sinopsis": "Murray y Joyce vuelan a Alaska. Ce se enfrenta a graves consecuencias. Robin y Nancy investigan el lado oscuro de Hawkins. El Dr. Owens tiene una noticia inquietante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8bsoaweda4zf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/09ru6ufvvo5q"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yx96vksaycsm"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Querido Billy",
+            "sinopsis": "Max corre un grave peligro... y se está quedando sin tiempo. Un paciente del psiquiátrico Pennhurst recibe una visita. En Rusia, Hopper sigue buscando la forma de huir.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x6rblxoc4rps"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7xw0bghuqz8c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eskofrvflnx9"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "El proyecto Nina",
+            "sinopsis": "Owens lleva a Ce a Nevada, donde se ve forzada a afrontar su pasado. Los chicos de Hawkins registran una casa derruida en busca de pistas. Vecna se cobra otra víctima.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4xh2wxvdulzg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ombj6t7e7gof"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ysmuqgnc1ce6"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "La inmersión",
+            "sinopsis": "Tras el Telón de Acero, una peligrosa misión de rescate empieza a tomar forma. La pandilla de California le pide ayuda a una hacker. Steve se sacrifica por el equipo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dbrmhnq2nx60"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4g8p8a1bc1v0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qmcxju1po115"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "La masacre en el Laboratorio de Hawkins",
+            "sinopsis": "Hopper se prepara para enfrentarse a un monstruo. Dustin investiga las intenciones de Vecna y descifra un mensaje del otro mundo. Ce encuentra fuerzas en un recuerdo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/73gianexsp0h"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/rey6v0d7xuah"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tnfluvxexemt"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Papá",
+            "sinopsis": "Nancy tiene visiones aleccionadoras y El pasa una prueba importante. De vuelta en Hawkins, la pandilla reúne suministros y se prepara para la batalla.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w41i1aiadas8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9424ex4i3cke"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mk2gmfelbhjw"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "El huésped",
+            "sinopsis": "Con corazones desinteresados ​​y un choque de metales, los héroes luchan desde todos los rincones del campo de batalla para salvar a Hawkins, y al mundo mismo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r5s60jdf4tay"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7ghq5tj2mwra"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ptfffdoeryzh"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: La misión",
+            "sinopsis": "Noviembre de 1987. El grupo evade al ejército para entrar al Otro Lado y encontrar a Vecna. Pero lo que no sabe es que la amenaza se encuentra más cerca de lo que creen.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cbmff86tey4g"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/z9o610s4xdmu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/teg8dyb9mgqi"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dos: La desaparición de...",
+            "sinopsis": "Ante el brutal ataque ocurrido en casa de los Wheeler, Mike y Nancy empiezan a sentir el costo de su ocultamiento, y Once y Hopper emprenden una misión de rescate.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5qig21489o2j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/awd9xmsr9hbg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/p3fijp0htdyf"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo tres: La trampa de Turnbow",
+            "sinopsis": "Will percibe el siguiente paso de Vecna, lo que le da al grupo la oportunidad de tenderle una trampa. Holly explora su nuevo entorno.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/e6ihvkc32i03"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/74qa0lj2d5cp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/c5eg256q31uo"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo cuatro: Hechicero",
+            "sinopsis": "El ejército arrecia su control sobre Hawkins. Mike, Lucas y Robin idean un arriesgado plan de escape. Once se encuentra cara a cara con su rival.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/niqup7vc6fkp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kaervtwwu7b4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rvgehvvu46cm"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: Electrochoque",
+            "sinopsis": "El grupo idea un plan electrizante para reconectar a Will con la mente colmena. Surgen tensiones durante la búsqueda del Laboratorio Hawkins en el Otro Lado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hhmyb96uafe4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ap0r2f2mflmx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/a6fy5eqhdb6m"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: La huida de Camazotz",
+            "sinopsis": "Mientras Holly y Max luchan por escapar de la mente de Vecna, Once debe hallar la forma de llegar a Will. Joyce lidia con la culpa. Jonathan y Nancy enfrentan un momento decisivo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/psiev00sol37"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c0o1z8g1raaj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fugksxpdrajn"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo siete: El puente",
+            "sinopsis": "En el aniversario de la desaparición de Will, el grupo se prepara para una batalla que podría cambiar el mundo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3dl13gryw4jj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e4q2zlbaztfs"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zf8idbrn7l4i"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo ocho: Este Lado",
+            "sinopsis": "Mientras Vecna se prepara para destruir el mundo, el grupo deberá arriesgarlo todo para derrotarlo de una vez por todas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n46u68za9gvx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b36yw2m9o1n6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4z7cm9rcz7rq"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 62688,
     "titulo": "Supergirl",
     "sinopsis": "Tras once años en la Tierra, Kara Zor-El decide seguir los pasos de su célebre primo y aprovechar sus superpoderes para salvar a los ciudadanos de National City de los criminales alienígenas que amenazan la paz. Pero si quiere continuar con su vida humana, primero tendrá que crear la identidad secreta de Supergirl.",
