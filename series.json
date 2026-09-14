@@ -1,5 +1,176 @@
 [
   {
+    "id": 313721,
+    "titulo": "Dear Killer Nannies: Criado por sicarios",
+    "sinopsis": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
+    "poster": "https://image.tmdb.org/t/p/w500/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xvxSV4J28kgFaDMbaDnmAlV2YmB.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "El fin de la inocencia",
+            "sinopsis": "Juampi crece en un entorno de lujo y violencia, criado por los sicarios de su padre, Pablo Escobar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/34uc34yyqv70"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1oqm3jx2mtf1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pg8emgmfihen"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Enfrentar al miedo",
+            "sinopsis": "Juampi enfrenta la verdad sobre su padre, mientras busca romper con un legado que lo persigue.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kjzoyi8toxyw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1cr6rzzs343w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hq7tedlfvkb5"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/uhtrjgazd5cq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3e3om0a6ydtg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/uog2ghrfw5tk"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qqlqxilm0sed"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jiwfi3gyjy6i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2lu5ljjldu6j"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jubmqog96cb7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wxka9jaft6io"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/00mjozpyr1qr"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/q9mhve8imm67"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/sqagu5asmpay"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6n971cu1zx5k"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/y01jatog0hqt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a459yzdjyv3s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8uutcuirg6ke"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Episodio 8",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/s9gbuczaf2o2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6e0j3piq2861"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/glhflzcjnmhi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 224263,
     "titulo": "Stranger Things: Relatos del 85",
     "sinopsis": "Hawkins, invierno de 1985. En un pueblo lleno de secretos, nuestros queridos héroes se enfrentan a nuevos misterios... y a algo aún más extraño.",
