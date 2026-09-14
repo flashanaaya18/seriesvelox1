@@ -1,5 +1,80 @@
 [
   {
+    "id": 321596,
+    "titulo": "James.",
+    "sinopsis": "En esta serie documental, James Rodríguez, el mítico n.º 10 de Colombia, revela detalles inéditos sobre su ascenso a la élite del fútbol y la vitrina más importante del deporte.",
+    "poster": "https://image.tmdb.org/t/p/w500/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/v2sqiw5PYHAxniOlKUdc7AGLOBF.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "James vs. la vida",
+            "sinopsis": "Tras lidiar con el rechazo, James insiste en perseguir sus sueños. Lejos de casa, aprende a sobrevivir, entrenar duro y destacarse en su camino al fútbol profesional.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f80tcop7y3nt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/29cdjjcv6e6b"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hbsbcsp6zkin"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "James vs. el mundo",
+            "sinopsis": "En la Copa Mundial de 2014, Colombia brilla con la luz de James. Al mismo tiempo que queda en la mira del mundo de un día para otro, un cambio de equipo aumenta la presión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/m499kp3d1bve"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b5p4bg7w47gj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cbc0hrs0vubc"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "James vs. James",
+            "sinopsis": "James trata de darle un giro a su carrera y demostrar que todavía tiene mucho para dar. Regresar a Colombia lo motiva, y renacen sus sueños mundialistas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mn2rwkjerofa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kz59z3x1ukcv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qps9hjbvjkn9"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 220102,
     "titulo": "Spider-Noir",
     "sinopsis": "Al detective privado Ben Reilly lo contratan para un par de casos sencillos... hasta que unos mafiosos, unos monstruos y una femme fatale misteriosa tejen una red que lo obliga a encarar su antigua vida como el único superhéroe de Nueva York: La Araña.",
