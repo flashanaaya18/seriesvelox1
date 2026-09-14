@@ -1,5 +1,177 @@
 [
   {
+    "id": 220102,
+    "titulo": "Spider-Noir",
+    "sinopsis": "Al detective privado Ben Reilly lo contratan para un par de casos sencillos... hasta que unos mafiosos, unos monstruos y una femme fatale misteriosa tejen una red que lo obliga a encarar su antigua vida como el único superhéroe de Nueva York: La Araña.",
+    "poster": "https://image.tmdb.org/t/p/w500/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Misterio",
+      "Crimen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Pasa a mi oficina",
+            "sinopsis": "No terminará como tú deseas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pjx3eghx4105"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/65if122bxk63"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kctxsc4ueprd"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Actúa con cautela",
+            "sinopsis": "Eres un detective. Investiga.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/iwoaqvd7v0hu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/gu94atmsvtmk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ktr3tfdcuwh0"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Emboscada",
+            "sinopsis": "Mientras más rápido lo demuestres, más rápido morirá.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xgx2ihee184y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4lonhrwaedqn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xhu9bdwitian"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Un error que no volveré a cometer",
+            "sinopsis": "No lo sé, creo que todavía puede.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9dg0goj42pd9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6zpt6eaxdjpm"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4gbyyauc1dih"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Traición",
+            "sinopsis": "Debes tener cuidado con las inversiones y la salsa picante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/017u11y9sxw9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6dywzkjciul7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9ojpozv9z0fv"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Pesadilla en una camilla",
+            "sinopsis": "Si no encontraste la respuesta es porque no existe.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2atqsjgnm5mf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/iqzyuqsgmjbv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kvgugssw3glm"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "No soy un héroe",
+            "sinopsis": "Muerto no podré protegerte.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2anvt6iy5at1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qpupok0z14gi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/deswz94k6btr"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El hombre de la máscara",
+            "sinopsis": "¡Cielos! ¿Qué puede hacer un detective privado en la ruina?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7yqikrb0ox0y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zbeudrsumomy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/z2mkbraspvej"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 281041,
     "titulo": "La nena",
     "sinopsis": "Meses después de los sucesos de La Red Púrpura, la cacería no ha terminado. Tras la muerte de Lucas, Elena Blanco ha desaparecido. Solo Mariajo conoce su paradero, manteniéndolo en secreto incluso para el resto del equipo. La lucha contra La Red le arrebató demasiado y en un intento desesperado por recuperar el control de su vida dejó atrás la BAC.",
