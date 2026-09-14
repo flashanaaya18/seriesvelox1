@@ -1,5 +1,1730 @@
 [
   {
+    "id": 60625,
+    "titulo": "Rick y Morty",
+    "sinopsis": "Rick Sánchez es un genio científico alcohólico que se ha mudado con la familia de su hija Beth. Él pasa el tiempo con su nieto adolescente Morty (y en ocasiones con otros miembros de la familia) en aventuras peligrosas y surrealistas a través del espacio y universos paralelos.",
+    "poster": "https://image.tmdb.org/t/p/w500/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+    "anio": "2013",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy",
+      "Acción & Aventura"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Buscando las semillas",
+            "sinopsis": "Rick lleva a Morty a otra dimensión donde encuentran semillas de Mega Árbol; mientras tanto, Jerry y Beth discuten acerca de la influencia de Rick sobre su hijo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2l4qs15osfwa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/56obu7d7nv29"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/csjjkqfbeiuc"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Invasión canina",
+            "sinopsis": "Rick diseña un aparato para que Snuffles sea más inteligente, pero resulta mal. Rick y Morty invaden los sueños del profesor de matemáticas de Morty.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7w96q1gjalnu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/7t1z74qfvkgo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/odbiupa9vfjp"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Parque anatómico",
+            "sinopsis": "Morty aparece en un extraño parque temático de enfermedades infecciosas y ubicado en el interior de un vagabundo. Los padres de Jerry presentan a su amante compartido.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/giilvcp0os5g"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/eiebvr8eak43"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/taooi8douajy"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "La simulación alienígena",
+            "sinopsis": "Extraterrestres envían a Rick, Morty y a Jerry a una realidad alterna, donde Rick intenta salvarlos mientras el distraído Jerry promueve un eslogan para vender manzanas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9z2srt3ht0ho"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xcw2uxy474a6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5obqmvcoxo0z"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Meeseeks destructores",
+            "sinopsis": "Morty está cansado de las locuras de Rick, así que propone una aventura supuestamente más tranquila. Jerry conjura a una extraña criatura para ayudarlo en el golf.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ueliln95o10l"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o2udnev3sloq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kpa0uzwhkxvi"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "La poción de Rick",
+            "sinopsis": "Morty usa una poción para ser atractivo a las chicas, pero el efecto se vuelve viral y contagia a todos en la Tierra, así que queda en manos de Rick limpiar el desorden.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/lmwgdok9sdpu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c3pcr4pygas6"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/u6ch86fx37ik"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Criando un Gazorpazorp",
+            "sinopsis": "Después de que Morty tiene un bebé con un robot sexual, Rick y Summer visitan el planeta de la mamá, donde el retoño se convierte en un adulto en cuestión de días.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/q75gwjxdy6ve"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/d09dgfl9ttkx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yblsmskh95fl"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Televisión interdimensional",
+            "sinopsis": "Aburrido de la televisión, Rick instala una señal de cable que percibe series de otras dimensiones. Todos usan gafas para ver a sus yos alternativos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qed38js45v8h"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4ho07lw3ut82"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pdxaqm3oabj5"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Cosas necesarias",
+            "sinopsis": "Rick tiene dudas sobre el nuevo trabajo de Summer en una tienda administrada por el diablo. Jerry y Morty discuten sobre si Plutón es o no un planeta y viajan ahí.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/a963q9cay1bw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0e9gxd6vuj9d"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xaimly7wrh9b"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Encuentros cercanos a lo Rick",
+            "sinopsis": "Rick intenta disfrutar de su desayuno, pero un grupo de Ricks alternativos lo secuestra y lo juzga por crímenes contra los Ricks.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jxskiiwdpcqv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/934qkwbnx3we"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gfacjgaxb0ug"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Es hora de la fiesta",
+            "sinopsis": "Jerry y Beth salen para participar en la recreación del hundimiento del Titanic, Rick y Summer hacen una fiesta que se sale de control.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/c8m726j83v3p"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/v656i5fibvap"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6z3c8iengvjy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Rupturas en el tiempo",
+            "sinopsis": "Rick, Morty y Summer están en problemas cuando el tiempo se fractura por un bucle de re-alimentación dividiendo la realidad en más de una imposibilidad, mientras Beth y Jerry  llegan a extremos para salvar a un reno que atropellaron.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wal30ngssaaw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lr21wz5edjmt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ilbbcn2vchgg"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Morty escapa en la noche",
+            "sinopsis": "Rick le enseña a Morty a conducir mientras deja a Jerry en una conocida guardería hecha especialmente para él. La conciencia de Morty le lleva a perseguir a un asesino en vez de pasar la tarde gastando 3000 flerbos en Puntos Y Fichas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fp8z01vu285e"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/an7696hzdz09"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/smwxyqkjhclq"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Asimilación autoerótica",
+            "sinopsis": "Rick se emociona al reencontrarse con un viejo amor, mientras Beth y Jerry tienen una pelea después de hacer un descubrimiento en el garaje.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/toz0jvuliixl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m4xvr8fonj0z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/d04qppiohlvx"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Rick vengador del futuro",
+            "sinopsis": "Atrapados en casa con un número creciente de parásitos alienígenas que toman formas y alteran la memoria, Rick y los Smiths tratan de averiguar quién es real.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/71db8ollx890"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1ipnnt1ryf8i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rl7f3xwfkblt"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Ponte Ricoso",
+            "sinopsis": "Cuando unas cabezas gigantescas llegan a la atmósfera de la tierra, Rick y Morty tienen que salvar al planeta con un nuevo éxito musical y ponerse Rickosos. Mientras, Jerry, Beth y Summer forman parte de una nueva religión.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/83hsy0ogtgy2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fwsp6cdmnglr"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iizp62tz7evs"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Los Ricks deben estar locos",
+            "sinopsis": "Rick y Morty viajan dentro de la batería del coche, donde Morty descubre que Rick ha creado un universo con vida solo para producir energía. Mientras, Summer queda encerrada en el coche con el intrincado sistema de seguridad de Rick que debe !Mantener a Summer a salvo!.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jq435z9o8jjs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yxpzwk8485e7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6k3vk36c7mav"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Problemas con mini Rick",
+            "sinopsis": "Beth y Jerry toman serias medidas para salvar su matrimonio. Rick se transforma en una versión adolescente de sí mismo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/eu8boxhgbbsw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/thcn5juaipbu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qbhyjuluedla"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Televisión interdimensional 2",
+            "sinopsis": "Jerry ha de decidir si mantener su hombría y su cultura o salvar a un líder alienígena mientras que el resto echa un vistazo a la televisión interdimensional.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o6ep5jsaefq7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/30tnjc4ywfp9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9opj0lozx3xm"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "El día de la purga",
+            "sinopsis": "Rick y Morty llegan a un planeta donde hay existe la purga, mientras Jerry y Summer trabajan en su relación padre-hija.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v63jx968px3a"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jjlosryyq5fb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/msrbwwgua9lo"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "La Squanch-boda",
+            "sinopsis": "La familia entera esta invitada a una boda en el lejano planeta Squanch.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w2r5fynwzgz4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wpvdfev9dk42"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8gqbfwdnpyyp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "La redencion de Ricl",
+            "sinopsis": "Summer y Morty viajan a otra dimensión para localizar a Rick y encuentran a un montón de ellos. Rick tiene antojo de una salsa muy especifica para su pollo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4svkuw2liyus"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/otf13e4t778r"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eu4raisssanu"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Rickusando la piedra",
+            "sinopsis": "Con todo el caos que hay en su casa, Rick, Morty y Summer viajan a un mundo post-apocalíptico para lidiar con ciertos asuntos personales (violentamente)",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/syg4uyconik0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/bwy10oad8uyi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/i5xztgfa4yez"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Pepinillo Rick",
+            "sinopsis": "Rick se convierte en un pepinillo y mientras el resto de la familia va a terapia debe intentar averiguar como volver a ser humano.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/h2yhyuhcvx2i"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/41u41s1co4w3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/repy2yuxh5qb"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Los vindicadores: El regreso del destructor de Mundos",
+            "sinopsis": "Mientras que aparenten ayuda a un grupo de superheroes llamado los Vindicadores, Rick alcoholizado configura una situación terrorífica para ellos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1etraom9myty"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/72tie2ccclbk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jjogexs42fd3"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "La conspiracion de Whirly Dirly",
+            "sinopsis": "Rick y Jerry van a un lugar donde morir es imposible, pero una criatura quiere matar a Rick de cualquier forma. El intento de Summer para modificar su cuerpo sale mal.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/399zq6jf90y0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/23gjqabbamtv"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/phjflz1zkbjy"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Descanso y Ricklajación",
+            "sinopsis": "Tras otra agotadora aventura, Rick y Morty deciden que necesitan unas vacaciones, pero las cosas se ponen un poco locas cuando prueban una maquina de desintoxicación.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n47nv1whjrh7"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/txysbkhhqqmx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gcwbdw1jbfju"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Cuentos de la Ciudadela",
+            "sinopsis": "Rick y Morty se topan con Rick y Mory de la Ciudadela de Ricks antes de dirigirse a una aventura increíble en Atlantis.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/t6xr3xrt9vxs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/86vopssxthxh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/wmooh25yp4nz"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Los recuerdos de Morty",
+            "sinopsis": "Rick le enseña a Morty un cuarto lleno de memorias que Morty le pidió que borrara de su mente, y las cosas se salen de control cuando Rick decide restaurarlas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o7m9f1vn4n3n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ddy3s21esu84"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1kozsh7yrfc7"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "ABC de Beth",
+            "sinopsis": "Rick y Beth lidian con asuntos de la infancia de ella y visitan otro mundo. Morty y Summer no se fían de la nueva novia de Jerry.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/snfbx612cuzj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4t7th2q8r1bk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hni5oxblxxzk"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Dia de Rick y Morty",
+            "sinopsis": "El presidente necesita ayuda de Rick y Morty y hay una confrontación. Beth empieza a sospechar que es un clon.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wxemtf89hsg6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/p7apwch9c55w"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5ecco7ou3cnm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 4,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Aprovechando el mortymento: Vive, muere, Rickpeat",
+            "sinopsis": "Después de un desayuno familiar, Rick le pide a Morty que l acompañe a Forbodulon Prime para buscar \"cristales de muerte\" y Morty no los puede manejar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bvkzfnfp6wtc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lw02hfrp6mu2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nuxjyfi6bzcq"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "El anciano y el trono",
+            "sinopsis": "Jerry desarrolla una app tras la solicitud de un alienigena con un tatuaje de advertencia. Rick, decidido, localiza a un defecador misterioso.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/r9tuue7goosm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/p3963xo8vxtw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ozadgu3xr5g9"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Una pandilla para el patético de Morty",
+            "sinopsis": "Rick reúne a un equipo para adentrarse en una convención de atracos y luego necesita a otro equipo para detener a un robot atracador. Morty escribe el guion de un atraco.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/k067sklybolj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/njs0h4d819wi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mtdinfwpxe7a"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Ley y el dragorden",
+            "sinopsis": "Rick renuentemente accede al deseo de Morty de obtener un dragón de mascota y las cosas se ponen locas. Jerry se hace amigo de un gato parlanchin y se van a Florida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7d4r0ucmk3me"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zvfxd3ix6lzy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kkrcgznjn9jv"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Rattlestar Rickláctica",
+            "sinopsis": "Rick y Morty se ven enredados en una guerra de serpientes después de que una muerde a Morty. Jerry intenta comprobar que puede colgar luces navideñas sin morir.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8muqchuq24cw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3bugng2u6kbu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6s9uj88xbcab"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Un tren de antologías",
+            "sinopsis": "Rick y Morty quedan atrapados en un recurso narrativo con la forma de un tren lleno de pasajeros contando historias sobre Rick... y de alguna manera tiene que detenerlo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ak450suzdshu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5q0u1tl0mnb2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/socb5kvtgvcf"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Alienígenas",
+            "sinopsis": "Alienígenas chupacaras ponen en aprietos a Morty y Rick, especialmente cuando de vuelta a casa, descubren que dejaron a Summer en el mundo extraterrestre.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/dcgewxh9pg1e"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6e5rs8yfb7qg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nlvp3hqn2eoc"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El episodio del tanque de ácido",
+            "sinopsis": "Morty quiere que Rick cree una función para guardar la vida real como se hace en los videojuegos y así vivir sin consecuencias. Ademas, hay un enorme tanque de ácido.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wgv3aer8gsv4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9orz39tdbyoz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/sreextztbvym"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Childrick of Morta",
+            "sinopsis": "Jerry lleva a toda la familia de campamento, pero sus planes se arruinan cuando Rick se entera de que quizá embarazó al planeta Gaia.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jmcgj0ybdfil"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/z86qkbgrjbh7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yaylgwnugoyn"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "El rickgreso del Jerri",
+            "sinopsis": "Dos Beths, un incinerador de planetas y algunos rostros del pasado obligan a Rick y a la familia a recrear un fragmento de Star Wars.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6utz67ng63co"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/x67bii0tkdri"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rarxsqryqddk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 5,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Mi cena con Andre a la Morty",
+            "sinopsis": "Rick tiene un invitado especial para la cena, mientras que Morty trata de traer el vino",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0yvb3nm786fk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6lz9rrgs6mge"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hhfd8pm63oeu"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Mortyplicidad",
+            "sinopsis": "Los Smiths sospechan que están siendo cazados. Pero ¿quién es real y quién no?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/va74336lznlu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/eolcft0nelag"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/m4gaavlxcsbz"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Una Mortyandad Conveniente",
+            "sinopsis": "Morty se enamora de una superhéroe ambiental, mientras Rick y Summer van a diferentes fiestas apocalípticas",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/l94soru3zj5q"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ydwlp1fh6lua"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cjydtu3j18ra"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Día de la Rickdependencia",
+            "sinopsis": "Un experimento fallido de Rick provoca la creación de monstruos en toda la ciudad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/yu54pna5y5lp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/aiewawhcuo1s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/574bnz9ggh8i"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Grickfitti Amortycano",
+            "sinopsis": "Summer y Morty roban la nave de Rick para imprecionar al chico nuevo de la escuela. Rick y Jerry tienen una noche de hombres (del infierno).",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ynrhltq0j6vv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/809khkzu9chk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yjv3xz0yxeqw"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "El increible día de Explota-acción de Gracias",
+            "sinopsis": "El día de Acción de Gracias, Rick y Morty necesitan obtener un indulto presidencial.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/znnj7510vugp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/x66th27xtj4b"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jvsvikawfo7z"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Gotron Jerrysis Rickvangelion",
+            "sinopsis": "Summer alienta la adicción de Rick por coleccionar robots gigantes que pueden combinarse entre si, y la familia se vuelve LA FAMILIA.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mahqb7mu9fpx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/heqvkud86ryo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mep8knlaxekf"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Rickterno amisplandor del Mort sin recuerdos",
+            "sinopsis": "Rick intenta salvar a un apreciado amigo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ccecll6g9i12"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ixboglt22ztr"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vpv85n5e4yyr"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Olvidando a Sarick Mortshall",
+            "sinopsis": "Rick tiene nuevos compinches, mientras que Morty hace un nuevo amigo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ettbdx3qfndp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fns2tzecfrdd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ubmnpo58jtla"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Rickmurai Jack",
+            "sinopsis": "Rick está viviendo su mejor vida en el anime, haciendo nuevos amigos y derrotando a nuevos enemigos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8findjh832bi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/o9n5p78adz1p"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/aj8pjnzzfemx"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 6,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Solaricks",
+            "sinopsis": "¡Están de vuelta, nena! Los Smith se enfrentan a las consecuencias de la última temporada, y Rick y Morty se quedan varados en el espacio flotando entre los restos de la ciudadela.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n94gx50t6hsl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a14quv52n4gg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/vsa7gccnlfdr"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Rick: Una Morty Vida",
+            "sinopsis": "Morty está atrapado y Rick tiene que salvarlo, pero para ello, Summer debe hacer un Duro de Matar. Esto no será fácil ya que nunca la ha visto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/c570yni26j6s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/n61bbcqrub7f"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5uiazuguubpx"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Instinto Béthico",
+            "sinopsis": "Summer y Morty se encierran en su nueva consola de videojuegos ultrarrealista.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/h4pc19ojd7ju"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/sxvcscandv18"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/w7pmez6bm6gr"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Familia Nocturna",
+            "sinopsis": "La familia descubre que Rick ha estado usando una nueva tecnología que ellos también quieren probar. Después de complacerlos, se produce el clásico caos de Rick y Morty.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/uvg30t9l3f2y"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0nq9bgc9bpdw"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bcdm3himnjoy"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "DeSmithno final",
+            "sinopsis": "Los Smith cenan en su restaurante chino favorito y leen sus galletas de la fortuna en voz alta. Algo bastante normal, hasta que Jerry lee la suya.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pscgr4mr3hjw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mo2fydaodv15"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kexse9pktrfp"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Mundo JuRícksico",
+            "sinopsis": "De repente, los antiguos gobernantes de la Tierra regresan. Hacen un gran alegato para cambiar el funcionamiento de la sociedad, pero Rick no lo va a tolerar.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/s3iuc30le096"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mbupwjf32hgq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nezybgtfpuwm"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "La Meta Naricktiva",
+            "sinopsis": "Rick y Morty se encuentran confundidos. Recuerdan algunas de sus aventuras juntos, lo que les lleva a un enfrentamiento con un viejo enemigo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8kqfym36raz3"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/goizd0q7la23"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/km46kytbvhou"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Analízame",
+            "sinopsis": "Cada vez aparecen más personajes divertidos y aleatorios. Rick está agotado de tener que lidiar con ellos. ¿Qué significa esto para él?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0k22pg0lsbr3"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ofsh5vsa8u80"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tdp4vzrxygrg"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "El Sacrificio del Rey Morturo",
+            "sinopsis": "Morty recibe un regalo de un desconocido en la calle.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7t83quleklv0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4cxeex8s5pav"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/4dahxrwlskhx"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Rickaciones de Mortyvidad",
+            "sinopsis": "Morty siempre ha querido cierto regalo para Navidad, pero nunca lo consigue...",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/gxxgckeh0nki"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hjdotkfyhmh5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/3rsdtbkdlhwb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 7,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "La Nueva Vida del Señor Pantalones de Popo",
+            "sinopsis": "Rick y sus amigos ayudan al Señor Pantalones de Popo a despejarse, teniendo una noche salvaje.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ta5ab3vzdv4q"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ssdxp86n0got"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/eencf64ofj5p"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Juego de Jerrycky",
+            "sinopsis": "Después de un accidente en la cochera, Rick y Jerry intercambian mentes y las cosas se ponen agitadas cuando ambos se convierten en la mitad el uno del otro, especialmente cuando hay bandas criminales involucradas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2jjanfiorp4o"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5oil8r4jlays"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/aco2xz6cywme"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Air Force Wong",
+            "sinopsis": "Rick y la psicóloga Wong ayudan al presidente con una invasión (de amor) en Virginia, donde un viejo reencuentro genera en Rick un malestar emocional.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ufwkd56z3d6n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hn7ra4dmfauy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mngrkqwnzfm2"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Es Amorte",
+            "sinopsis": "Los espaguetis de Rick causan la intriga en Morty, al grado de encontrar su receta secreta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8boeq1zj4jpn"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/d4mgloxfjeoq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pw4opeq55rsr"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Inmortrickable",
+            "sinopsis": "Rick y Morty quedan atrapados en un proyecto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/uj3a59omjnv1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/n3nwh7g13kch"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xb4ybyiprrgz"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Rickfender tu Mort",
+            "sinopsis": "Auditan a Morty y observadores lo observan desde el Consejo de observadores.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/teny9l139s10"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/2v614c9baa5m"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e7d9gxgs1rzc"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Wet Kuat Amortican Summer",
+            "sinopsis": "Summer y Morty pasan tiempo de calidad juntos y con amigos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/f3n5wag8ebyr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/hj5cbkizq4g1"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/luck9evk8jom"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El ascenso de los íconos numéricos: La película",
+            "sinopsis": "La matemática es difícil. Pero salvar el universo lo es aún más.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/38o15kid966p"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3avpvvzzbfv8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ilpncbednql1"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Mort: Ragnarick",
+            "sinopsis": "Rick persigue el infinito y Morty trata de ayudarlo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ut90d88x1qk8"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/md1v7ji671zi"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tinf886zkusu"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "No temas Mort",
+            "sinopsis": "Rick y Morty, exhaustos, salen en busca de emociones espeluznantes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/287c00nwrkez"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/edtq89ubqhjl"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/b6lns0exusaf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 8,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "La \"Summer\" de Todos los Miedos",
+            "sinopsis": "Rick dejó a los niños en una matrix.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/888ag445s5zl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/65sfe7r77irb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kng04zkairsz"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "ValquiRick",
+            "sinopsis": "Beth Espacial le pide a su padre que la lleve.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2q3kmwn6272i"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/idccm7uoomga"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rcdgigmcuwbu"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "El Rick, el Mort y el Feo",
+            "sinopsis": "Unos tipos quieren reconstruir la ciudadela. Parece una mala idea.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/drbtpg0eyo53"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fuoim5q5plp9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xbqdn6bsjlyl"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "La Última Tentación de Jerry",
+            "sinopsis": "Broh ha resucitado. Los Smith aprenden el verdadero significado de la Pascua. Más o menos. Broh.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ffzg2bku3bra"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/83qsgfb8g1sp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0z30ibfzc8bh"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Cryo Mort a Rickver",
+            "sinopsis": "¡Broh! Rick y Morty quieren robar una nave en criosueño. Pero la gente tiene el sueño ligero, broh.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qgr9cvwqexdn"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/tp3gfvn0caz7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2u8fodg9pn8x"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "El CuRickoso Caso de Bethjamin Button",
+            "sinopsis": "Los brohs van a un parque temático que a Rick le encanta; Beth y Beth Espacial se quedan y experimentan una regresión o algo así.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/v03n5fmz6th5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/cmvbknh3kz01"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ulsflnnc9xar"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Más Rick que la Ficción",
+            "sinopsis": "Rick y Morty escriben la siguiente entrega de su franquicia de películas favorita.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ojvcmiwti56j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ji0t9odg5epn"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iy9ety2he2rr"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Nomortland",
+            "sinopsis": "Jerry hace un amigo tan desempleado como él.",
+            "servidores": []
+          },
+          {
+            "numero": 9,
+            "titulo": "Morty Daddy",
+            "sinopsis": "Summer y Rick salen a cenar; Morty reencuentra a alguien de su pasado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/57emimb03voq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e62cvfqlqktc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ls6unc8u06sj"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Rick Caliente",
+            "sinopsis": "A veces intentamos cosas raras para dejar atrás el pasado.",
+            "servidores": []
+          }
+        ]
+      },
+      {
+        "numero": 9,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Loco por Morty",
+            "sinopsis": "Rick se siente solo, amigo. A Morty le preocupan las aventuras amorosas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8igi8z4pebaw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wo2xl01eecpu"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/c3xhleo1z3wu"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Ricks días, siete noches",
+            "sinopsis": "¡Intenta ser Rick todo el tiempo, hermano!",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/q23e8xlb3yt3"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ptu0bbnvpmei"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/7qpnniyg3rbe"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Rick-Fusion",
+            "sinopsis": "No has vivido de verdad hasta que no te has hecho con el pecho en Trader Joe's, colega.",
+            "servidores": []
+          },
+          {
+            "numero": 4,
+            "titulo": "Nada es para Rick",
+            "sinopsis": "Recordar contraseñas es difícil, hermano. Caracteres especiales,hermano.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/bxjj70mvt6bs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/uqtbzik4djn0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/r4ja4qmh2ujg"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Jerry Superestrella",
+            "sinopsis": "El mejor amigo del hombre, hermano.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nptf2iqu98zo"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dx6ik5d03zx3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/shntrnedwkm8"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Erickerhead",
+            "sinopsis": "El estómago de Rick está fatal, hermano. ¡Pero aquí puedes comer y beber todo lo que quieras, broh!",
+            "servidores": []
+          },
+          {
+            "numero": 7,
+            "titulo": "MortGully: Las aventuras de Rick en el bosque",
+            "sinopsis": "Rick y Morty tienen que evolucionar, bro.",
+            "servidores": []
+          },
+          {
+            "numero": 8,
+            "titulo": "Rickuiem Mort un sueño",
+            "sinopsis": "Estate quieto, bro. Te hará ser agradable, bro.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zy65sl7dy4zl"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/z7tt52rg8j7l"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ilf0wzoeb8qk"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Saluda a tus Morts",
+            "sinopsis": "Morty y Summer van al campamento, bro. Beth y Jerry solos en casa, bro.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/veyw61vzzv2a"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/li9emsz05jor"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/5z2isx60yyal"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "El Campo de los Sueños",
+            "sinopsis": "Tom Sawyer, hermano.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/igb3bthqpo2n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/u890cukkewpd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/omrxzapmkte5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 259017,
     "titulo": "Oríllese a la Orilla",
     "sinopsis": "Al perder su trabajo, Brayan y Toña deciden entrar a la academia de policía, pero se meten en problemas durante el tiempo que pasan allí",
