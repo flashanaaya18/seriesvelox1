@@ -1,5 +1,404 @@
 [
   {
+    "id": 253391,
+    "titulo": "Sheriff Country",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/2hynjeXYujtQARockQyYVmfur4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+    "anio": "2025",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vn8p4f4xc1u1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a36fucv8hrtp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/j5czwpvxcpja"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d5vc4i0t2z5z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/smygvung6z64"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/iunsf7ahkaw9"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vyst7sc2lis6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/pxgcff62qvsg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lergm9trdkiq"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xge621oo1r4t"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mppohhhw47he"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qzeyryznb5st"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3n2ebr9n33fp"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a4bq2rl3ww5n"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rxo4od6iousb"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xslqt758m71z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/23357ra8gsiy"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/j6wajmjps1sz"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/a90fohdriupg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lmaic9euzoca"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ivafyvotpmgd"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Episodio 8",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rb8klvs17pen"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/r8qegce3ad0j"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/6kx59xnw8w3b"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Episodio 9",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3skvoph8wnmi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mof0p9u1bw7x"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/prdsefztlrgg"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Episodio 10",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/roqrm429ec6j"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/6terl69l1nqh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kvijxvkmlmeh"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Episodio 11",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/w3nep1rqvjsu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/xcbj98x5gi1s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/l6xbimw1lfkj"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Episodio 12",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ybc0fshyb0lz"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/zj1u6js9zj57"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/chnhdfsui1cx"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Episodio 13",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/6m64uatovf11"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/tzadbjlga8du"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1ybywvheqbof"
+              }
+            ]
+          },
+          {
+            "numero": 14,
+            "titulo": "Episodio 14",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/s9k1ef5gt8s2"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/jms8otbsnf7f"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/z2g6spr8yqld"
+              }
+            ]
+          },
+          {
+            "numero": 15,
+            "titulo": "Episodio 15",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x2jj0ux6yfte"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3zrq8i7vc0xo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lxliyzuqlyct"
+              }
+            ]
+          },
+          {
+            "numero": 16,
+            "titulo": "Episodio 16",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3u9z3wlxfhn5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vs13ggfzutg2"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kuvvcujxezdn"
+              }
+            ]
+          },
+          {
+            "numero": 17,
+            "titulo": "Episodio 17",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/zekojslcc2fr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/m52iz2fnny68"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/8vtuhnrsa6sh"
+              }
+            ]
+          },
+          {
+            "numero": 18,
+            "titulo": "Episodio 18",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fcgdhicb153e"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ocj0k1lna3s8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/3fpdoqnzmrgu"
+              }
+            ]
+          },
+          {
+            "numero": 19,
+            "titulo": "Episodio 19",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/et8owgi0ou9z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ldpr9f45i5oo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2ulpm5kgxixf"
+              }
+            ]
+          },
+          {
+            "numero": 20,
+            "titulo": "Episodio 20",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ng17hhlheql4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wutjkt9plqw5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/i1f5y85fnntp"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 260249,
     "titulo": "El juicio",
     "sinopsis": "Una joven y su padre luchan por justicia después de que ella sufre un abuso sexual. Además de lidiar con las secuelas del delito, ambos se enfrentarán contra un fallido sistema judicial y contra el padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
