@@ -1,5 +1,156 @@
 [
   {
+    "id": 325755,
+    "titulo": "El club gastronómico",
+    "sinopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
+    "poster": "https://image.tmdb.org/t/p/w500/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fyii4k98wca4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qddo1bo9lm6r"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/gkjxwxml9ozd"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ia9sj30ffjhx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/53jwqd8zgthj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/fcp7b5bqvepd"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xggrcrnwt7il"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/qb6bqp0c4i3s"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/q1oicbhi2cay"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wpr1c1norg9u"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vmdivk4ry5c7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/v2bxcsyq0lwt"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/iwybphfrj2bg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/b9oppz882xs0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/lmgj2moe7xw9"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1ibujl7rb1hi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fud2uteqysss"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qqphltdnpz5s"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/9frngctipy3s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/26sf311dsk9m"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/qmxjisigxcko"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 320096,
     "titulo": "Krypto Saves the Day!",
     "sinopsis": "",
