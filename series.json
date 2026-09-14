@@ -1,5 +1,175 @@
 [
   {
+    "id": 260249,
+    "titulo": "El juicio",
+    "sinopsis": "Una joven y su padre luchan por justicia después de que ella sufre un abuso sexual. Además de lidiar con las secuelas del delito, ambos se enfrentarán contra un fallido sistema judicial y contra el padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
+    "poster": "https://image.tmdb.org/t/p/w500/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qahvf4gwgaqx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/u7ixbvukyzh4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hi6vhy3qskri"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/3ur3ums53v26"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lnhk4lypjizq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dqbsg1yriovz"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/05zog6psengs"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/od2qlyuzdd21"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/c79c21gku9rc"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/44hlfzr0h40l"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4k1dqdbdfxbd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mnjl23k7zhzd"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mocx7hqpg4jq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/i9o6vyfzn3xt"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hyrbknplm8oj"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/n07e27x5iu0x"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e88twsyhndzf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/hragzr4ahf23"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Episodio 7",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d8snthkpfabt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0d3fi75n2gg9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/y96ro5krkde2"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Episodio 8",
+            "sinopsis": "",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qn5plmfmzxi0"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/yi4kzjqtnsdg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/epgr0wssok2m"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 259288,
     "titulo": "Rivalidad Amistosa",
     "sinopsis": "En una escuela de élite, dos chicas forman un vínculo complicado en medio de la competencia despiadada, las altísimas expectativas y las falsas promesas.",
