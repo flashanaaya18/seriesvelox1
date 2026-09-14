@@ -1,5 +1,775 @@
 [
   {
+    "id": 40008,
+    "titulo": "Hannibal",
+    "sinopsis": "Will Graham, que trabaja en el FBI como analista de crímenes, tiene una capacidad innata para empatizar con los psicópatas, lo que le permite entender sus motivaciones. Pero, cuando se da cuenta de que la mente del asesino en serie que está buscando es demasiado compleja incluso para él, recaba la ayuda de uno de principales psiquiatras del país, el Dr. Hannibal Lecter.",
+    "poster": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
+    "anio": "2013",
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Apéritif",
+            "sinopsis": "Jack Crawford del FBI enrola a Will Graham, un perfilador poco ortodoxo, para atrapar al alcaudón de Minnesota, un asesino serial que tiene por objetivo a una joven.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2k2k7rgolhuf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/l4j9uwu7td3x"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/2pyalageebjz"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Amuse-bouche",
+            "sinopsis": "Will y Jack persiguen a un matón que está enterrando vivas a sus víctimas como fertilizante para su intrincado jardín de hongos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/4md8k9petmwm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vr6wsoygdmpd"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nv1jn30ywrjs"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Potage",
+            "sinopsis": "Decididos a ayudar a que Abigail cierre su ciclo, Will y Hannibal viajan con ella de regreso a casa a la escena del crimen de su padre.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/49uuvn2wynqg"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/c8mnh6cgjz69"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/y0raeiqweumq"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Œufs",
+            "sinopsis": "Will y Jack descubren una serie de secuestros infantiles, donde parece que los hijos se han puesto en contra de sus padres.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qnglpss4u2u9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/a7rqoz61egpj"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/q22cwrifyb0n"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Coquilles",
+            "sinopsis": "El equipo rastrea a un asesino que transforma a sus víctimas en \"ángeles\", mientras que Jack libra una crisis personal.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/j2ndwo5a40wk"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/e5j5xk02pulr"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/akqgvptvwvml"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Entrée",
+            "sinopsis": "El Dr. Abel Gideon, un interno en el hospital estatal de Baltimore para los criminales dementes, declara ser el verdadero destripador de Chesapeake.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ftp9yuobpn61"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1c1n9xpbqwh7"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/l0ayjtg9io6l"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Sorbet",
+            "sinopsis": "Después de encontrar un cuerpo sin un riñón en la habitación de un hotel, Jack cree que ha resurgido el asesino serial conocido como el destripador de Chesapeake.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cfyvamjma2hi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/895r2oof74tb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dgv0ac8uxrto"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Fromage",
+            "sinopsis": "Will y Jack persiguen a un criminal que fabrica cuerdas para instrumentos musicales de las tripas de los humanos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/hn2s4nvevq1z"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/98ctrx4qfgz9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e6uzkmfrgqgl"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Trou normand",
+            "sinopsis": "Encuentran un poste totémico formado por 17 distintos cuerpos enterrados en una playa y el equipo trabaja para encontrar un aspecto común a todas las víctimas.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/nzxlewutyar5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/oz4fla25bdla"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/s7uovm1e3jae"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Buffet froid",
+            "sinopsis": "Will cuestiona su cordura mientras que se introduce en la mente de una asesina que cree que ya está muerta.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/7f7r3bz6jeq1"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/0bgj0cpqgila"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/cx3xllidwy1m"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Rôti",
+            "sinopsis": "Habiendo escapado de la custodia, el Dr. Abel Gideon busca venganza con sus exterapeutas, mientras que Will lucha contra su propia crisis mental en aumento.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/z02ocflqgm1s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1l2hqh89yqdq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/419jax9yrpu9"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Relevés",
+            "sinopsis": "Hannibal consulta a su propio terapeuta sobre la compleja relación que lleva con Will, a la vez que Will desarrolla una teoría sobre un asesino imitador.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ndrsw7mh05ke"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/mcw8kv6i5fh5"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/9tb9wbkfhegy"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Savoureux",
+            "sinopsis": "La decadencia mental de Will provoca una tragedia y él intenta con desesperación probar que el asesino imitador lo está inculpando injustamente.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/38sh8je1m0x9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/97c1kw1rbkeo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kfhnhkanpacy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 2,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Kaiseki",
+            "sinopsis": "Mientras Will espera su juicio; los trabajadores descubren cuerpos tirados al río en la escena del crimen para que la descifre la Unidad de Análisis del Comportamiento.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cdwhabfefjcm"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/5hisa8zf0ga9"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/e2wgdv0987ag"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Sakizuke",
+            "sinopsis": "El equipo se centra en el origen de los cuerpos arrojados en la escena del crimen. Mientras que Will comienza un ingenioso plan desde el interior del psiquiátrico.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/d9dggw24g1pe"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9ie2rrk7ilzk"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/xy4afo1kovk4"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Hassun",
+            "sinopsis": "Comienza el juicio de Will, pero cuando un entusiasta fan comienza a recrear los crímenes, hasta sus más firmes detractores se ven obligados a reconsiderar el caso.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/x59e4ldtwklr"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/fvpabu8gryrx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mriw86s1hey0"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Takiawase",
+            "sinopsis": "El FBI interviene cuando se descubre un cuerpo con la calavera convertida en una colmena. Beverly encuentra una clave sobre el asesino mural.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0juydnse1s2g"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/i4e5kkjlbzag"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/mcgx9xrgxy7o"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Mukōzuke",
+            "sinopsis": "Después de establecer el perfil del asesino de Beverly, Will llega a su punto crítico y envía a un asesino a perseguir a Hannibal, con escalofriantes resultados.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/5zwkbe5a0ypw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ywe1vd5l8apf"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/y5flg7rxljbe"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Futamono",
+            "sinopsis": "Se acumulan sospechas en torno a Hannibal cuando celebra una cena, mientras que el destazador de Chesapeake comete una serie de crímenes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/domhy799im72"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/z6vsghjof0xz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/i8bwwylw7b3c"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Yakimono",
+            "sinopsis": "Liberan a Chilton del psiquiátrico. Al mismo tiempo encuentran viva a Miriam Lass dando así una nueva esperanza a Jack de capturar al destripador de Chesapeake.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/fuf9ldizeqr5"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/akaw24lmufb8"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/1i1namfnikfa"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Su-zakana",
+            "sinopsis": "Jack le pide a Will que se una al equipo del FBI para investigar el asesinato de una mujer cuyo cuerpo se encontró dentro de un caballo muerto.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/jdqop7jq5tj6"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/snfa2vx3uhpg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ocholsekeami"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Shiizakana",
+            "sinopsis": "El espeluznante descubrimiento del cuerpo de un hombre hecho jirones, envía al FBI a la búsqueda de un asesino primitivo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/o13elkypj12x"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kh3qmbzubeag"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/3hkhixw6svu8"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Naka-choko",
+            "sinopsis": "Cuando Hannibal ayuda a Will a través de una sombría metamorfosis, surge una sociedad desconcertante, mientras Jack y el equipo investigan un cuadro inquietante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/vrsydfc66rmj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ja36ojzklupc"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/se6hiy0k9nlk"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "Kō no mono",
+            "sinopsis": "Jack y el equipo se enteran de la verdad sobre la desaparición de Freddie, a la vez que Will y Hannibal se involucran más allá con Mason y Margot.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/upti92ccdq8f"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/h48s77zroxvx"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/opbohfufdmsj"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "Tome-wan",
+            "sinopsis": "Will debe decidir si ayudar a Hannibal cuando su vida está amenazada.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ru8idebc8kr9"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/svigf3nd3j40"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/owdigqfadgfd"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "Mizumono",
+            "sinopsis": "Se estableció la trampa para Hannibal, pero ¿de qué lado está Will en verdad?",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/wnfz0k00fd9n"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/4hyq4su6trc0"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/evwnkddulry3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": 3,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Antipasto",
+            "sinopsis": "Hannibal Lecter escapa del FBI y se muda a Florencia con Bedelia Du Maurier, donde disfruta de su nueva vida. Allí decide enviarle un mensaje a Will Graham.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/0un3vmdjfebx"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/04sujaf49toq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/nbkj2dunz1nw"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Primavera",
+            "sinopsis": "El detective Rinaldo Pazzi tiene sus sospechas cuando Will llega a Palermo. Piensa que Hannibal Lecter y un asesino de la zona, Il Mostro, son el mismo.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/cx34fnmzrhkj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/9kchf31u4h38"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/bgn9uex7f76p"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Secondo",
+            "sinopsis": "Will Graham continúa buscando a Hannibal y viaja al castillo de los Lecter. Bedelia le advierte a Hannibal que no eche a perder su nueva vida.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xbm3p5zex3oi"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/vdvfn3jxqxki"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/u2kmjpvqdqdz"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Aperitivo",
+            "sinopsis": "Fredrick Chilton sobrevivió al disparo de Miriam Lass y va tras Lecter. Bella le pide a Will que se olvide de perseguir a Hannibal, pues es demasiado arriesgado.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ovd1s0w7h2f4"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/3dnoiqudhloq"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yv0mutfgogoy"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Contorno",
+            "sinopsis": "Jack Crawford y el detective Pazzi tratan de atrapar a Hannibal en Florencia. Alana Bloom continúa trabajando con Mason Verger y le preocupa su seguridad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/i04t048jonrj"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/ofku2dyl10zh"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/tmtjq86cesky"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Dolce",
+            "sinopsis": "Bedelia Du Maurier y Hannibal saben que les queda poco tiempo en Florencia. Hannibal planea su última batalla. Will y Jack vuelven a trabajar juntos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/rf4evdsjjsoc"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/moywxq2iw186"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/uiuz9hsivit4"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Digestivo",
+            "sinopsis": "Unos policías al servicio de Mason Verger capturan a Will Graham y a Hannibal Lecter. Ahora van camino a Muskrat Farm, donde Mason tendrá su venganza.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/g7bwgvpv8hew"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/nafs6mri4scz"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/uermvvjgg2mc"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "El gran dragón rojo",
+            "sinopsis": "Hannibal está encerrado en el hospital estatal de Baltimore para los criminales dementes, pero sigue siendo peligroso, y Jack Crawford debe atrapar a un nuevo asesino.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/mskdgyt1812c"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/y2xln6s53c5c"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/kbewi9tsxzud"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "La mujer vestida de sol",
+            "sinopsis": "El FBI busca al asesino en serie Francis Dolarhyde. Will Graham le pide ayuda a Hannibal Lecter para elaborar el perfil del asesino.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/1ghcsw5qxnby"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/wb1jhn0tqe4a"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/zkpcdht7rabn"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "La otra mujer vestida de sol",
+            "sinopsis": "Los símbolos del Dragón Rojo en la escena del crimen ayudan a Will Graham y al FBI a entender la perturbada mente de Francis Dolarhyde.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/pilb4wfc0tbu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/kyqe3r88ojmg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pwv7hhyuqlz5"
+              }
+            ]
+          },
+          {
+            "numero": 11,
+            "titulo": "La bestia del mar",
+            "sinopsis": "Will Graham y Jack Crawford creen que Francis Dolarhyde atacará nuevamente en luna llena, pero no tienen forma de saber quién será la siguiente víctima.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2nssbep7mwiu"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/277e8ce0g1ol"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/pxkhgfceq9bu"
+              }
+            ]
+          },
+          {
+            "numero": 12,
+            "titulo": "La marca de la bestia es 666",
+            "sinopsis": "Will Graham y el FBI le piden ayuda a Fredrick Chilton para guiar a Francis Dolarhyde a una trampa. Freddie Lounds será su portavoz.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/kv01ousdhy9s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/41qlx5o6l5xo"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ddi4gsoiz6nx"
+              }
+            ]
+          },
+          {
+            "numero": 13,
+            "titulo": "La ira del Cordero",
+            "sinopsis": "Will Graham quiere matar a Francis Dolarhyde y traza un plan utilizando a Hannibal Lecter. No se rendirá, aunque tenga que enfrentar sus miedos más grandes.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/35ega7aoapaq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/dlv3pdkuoqtp"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ops3txokcofk"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 66732,
     "titulo": "Stranger Things",
     "sinopsis": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.",
