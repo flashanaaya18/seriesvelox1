@@ -1,5 +1,216 @@
 [
   {
+    "id": 224263,
+    "titulo": "Stranger Things: Relatos del 85",
+    "sinopsis": "Hawkins, invierno de 1985. En un pueblo lleno de secretos, nuestros queridos héroes se enfrentan a nuevos misterios... y a algo aún más extraño.",
+    "poster": "https://image.tmdb.org/t/p/w500/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/A4V6RbNKp5c6MODQLk13oS6w24Q.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Acción & Aventura"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Capítulo uno: Bienvenida a Hawkins, chica nueva",
+            "sinopsis": "Una nueva amenaza trastoca los planes de los chicos de ganar algo de dinero quitando nieve, obligándolos a enfrentarse al peligro y a conocer a una nueva estudiante.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/gz6b05yirnuv"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lu8oj152dvcg"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/0u5faiiq6udi"
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "titulo": "Capítulo dos: Mala cosecha",
+            "sinopsis": "Nikki se une al grupo y al Club de Detectives de Hawkins. Algo extraño brota del suelo en una granja cercana y causa estragos en el Festival de Invierno.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/8vh0qjn0sdwe"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/1tjs3fzsch7t"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/dbnbmseysixc"
+              }
+            ]
+          },
+          {
+            "numero": 3,
+            "titulo": "Capítulo tres: Evolución",
+            "sinopsis": "En busca de respuestas sobre las criaturas mutantes que atormentan al pueblo, los chicos acuden a la maestra suplente de ciencias, la señora Baxter.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/2jponh2lnrjq"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/lgcue7dd4lhb"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/rftzyzkjnuao"
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "titulo": "Capítulo cuatro: La confesión",
+            "sinopsis": "Preocupado, Mike decide hablar con Hopper. Dustin arrastra a Steve al Club de Detectives de Hawkins. Nikki recibe a Will en la madriguera. Lucas y Max van al arcade.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/51aqei4fpuio"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/d66nus6ae08i"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/q6yxx24anrik"
+              }
+            ]
+          },
+          {
+            "numero": 5,
+            "titulo": "Capítulo cinco: El Weekly Watcher",
+            "sinopsis": "Cuando una fotografía que podría poner a Once en peligro acaba en manos de un tabloide, los chicos elaboran un plan para que Nancy la recupere. Pero si no lo logra, será el fin.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/991a7fvu4euf"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/25oq6vbo0tze"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/llgfa68qkdkl"
+              }
+            ]
+          },
+          {
+            "numero": 6,
+            "titulo": "Capítulo seis: Se acerca una tormenta",
+            "sinopsis": "Durante una tormenta de nieve, Dustin emprende una misión secundaria, y Max y Lucas responden a un llamado de auxilio. Una jugada atrevida sale mal para algunos chicos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/xcc714q20owt"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/g6kfrx9m3cs4"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/izrndqpkjpam"
+              }
+            ]
+          },
+          {
+            "numero": 7,
+            "titulo": "Capítulo siete: Llega la tormenta",
+            "sinopsis": "Lucas y Max buscan un lugar alto para reportar una alerta roja. Mientras tanto, Will, Mike y Nikki quedan atrapados en la escuela por la nieve..., y Once descubre que no están solos.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/emmf6fmuz3xw"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/8sm5lftmjl97"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/yahlgljnnixd"
+              }
+            ]
+          },
+          {
+            "numero": 8,
+            "titulo": "Capítulo ocho: La fiesta",
+            "sinopsis": "Dustin corre peligro en el súper cuando aparecen dos criaturas aterradoras. Los amigos se preparan para ir a las cloacas en el cumpleaños de Nikki.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/gam6jx8t46zy"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/70x9ff8wfh2z"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/llvmqv4sxdxn"
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "titulo": "Capítulo nueve: El sospechoso",
+            "sinopsis": "Tras una revelación impactante, el Club de Detectives de Hawkins se divide en grupos para buscar más pistas y descubrir la verdad.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/qvpk2if38w6s"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/eh3vyn49wvc3"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/ksdypba46iz0"
+              }
+            ]
+          },
+          {
+            "numero": 10,
+            "titulo": "Capítulo diez: Cuenta regresiva",
+            "sinopsis": "Cuando el tiempo se agota, el grupo se une más que nunca para luchar por su supervivencia. Los amigos ayudan a los amigos..., porque de ello depende el futuro de Hawkins.",
+            "servidores": [
+              {
+                "nombre": "Morencius",
+                "url": "https://morencius.com/embed/ch8uityslsaa"
+              },
+              {
+                "nombre": "StreamHG",
+                "url": "https://hglink.to/e/somh208pb645"
+              },
+              {
+                "nombre": "VOE",
+                "url": "https://voe.sx/e/jiujm27az8an"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 321596,
     "titulo": "James.",
     "sinopsis": "En esta serie documental, James Rodríguez, el mítico n.º 10 de Colombia, revela detalles inéditos sobre su ascenso a la élite del fútbol y la vitrina más importante del deporte.",
