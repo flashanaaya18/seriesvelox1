@@ -1,5 +1,59 @@
 [
   {
+    "id": 330438,
+    "titulo": "The Girls: A Khloé Kardashian Project",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg",
+    "anio": "2026",
+    "generos": [
+      "Reality"
+    ],
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          {
+            "numero": 1,
+            "titulo": "Episodio 1",
+            "sinopsis": "",
+            "servidores": []
+          },
+          {
+            "numero": 2,
+            "titulo": "Episodio 2",
+            "sinopsis": "",
+            "servidores": []
+          },
+          {
+            "numero": 3,
+            "titulo": "Episodio 3",
+            "sinopsis": "",
+            "servidores": []
+          },
+          {
+            "numero": 4,
+            "titulo": "Episodio 4",
+            "sinopsis": "",
+            "servidores": []
+          },
+          {
+            "numero": 5,
+            "titulo": "Episodio 5",
+            "sinopsis": "",
+            "servidores": []
+          },
+          {
+            "numero": 6,
+            "titulo": "Episodio 6",
+            "sinopsis": "",
+            "servidores": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 332863,
     "titulo": "En Coma",
     "sinopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
